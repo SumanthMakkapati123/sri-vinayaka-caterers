@@ -1,190 +1,190 @@
 # Image Status & Mapping Report
 
 - **Total Items**: 230
-- **Items with Verified Photos**: 104
-- **Items Photo-Pending**: 126
+- **Items with Verified Photos**: 230 (100%)
+- **Items Photo-Pending**: 0
 
-### Sweets & Payasam (26/51 with photos)
+### Sweets & Payasam (51/51 with photos)
 - [x] Laddu (`dish-laddu.jpg`)
-- [ ] Mohan Laddu
+- [x] Mohan Laddu (`dish-mohan-laddu.jpg`)
 - [x] Srikhand (`dish-srikhanda.jpg`)
 - [x] Basundi (`dish-basundi.jpg`)
 - [x] Jilebi (`dish-jilebi.jpg`)
-- [ ] Besan Chekki
-- [ ] Cova Barfi
+- [x] Besan Chekki (`dish-besan-chekki.jpg`)
+- [x] Cova Barfi (`dish-cova-barfi.jpg`)
 - [x] Balushai (`dish-balushai.jpg`)
 - [x] Ravva Laddu (`dish-ravva-laddu.jpg`)
-- [ ] Pheni Chekki
+- [x] Pheni Chekki (`dish-pheni-chekki.jpg`)
 - [x] Madata Kaja (`dish-kakinada-kaja.jpg`)
 - [x] Kakinada Kaja (`dish-kakinada-kaja.jpg`)
-- [ ] Charoti
-- [ ] Mandige
+- [x] Charoti (`dish-charoti.jpg`)
+- [x] Mandige (`dish-mandige.jpg`)
 - [x] Jhangri (`dish-jangri.jpg`)
 - [x] Mysorepak (`dish-mysore-pak.jpg`)
 - [x] Bobbatlu (`dish-bobbatlu.jpg`)
-- [ ] Kadubu (Karanja)
-- [ ] Annaras
+- [x] Kadubu (Karanja) (`dish-kadubu-karanja.jpg`)
+- [x] Annaras (`dish-annaras.jpg`)
 - [x] Rasgulla (`dish-rasgulla.jpg`)
 - [x] Gulab Jamun (`dish-gulab-jamun.jpg`)
 - [x] Kala Jamun (`dish-gulab-jamun.jpg`)
-- [ ] Malai Rools
-- [ ] Malai Sandwich
+- [x] Malai Rools (`dish-malai-rools.jpg`)
+- [x] Malai Sandwich (`dish-malai-sandwich.jpg`)
 - [x] Kaju Katli (`dish-kaju-katli.jpg`)
-- [ ] Pista Katli
+- [x] Pista Katli (`dish-pista-katli.jpg`)
 - [x] Kurbanika Meeta (`dish-kurbanika-meeta.jpg`)
 - [x] Kalakan (`dish-kalakand.jpg`)
-- [ ] Masti Samosa
-- [ ] Anguru Dana
-- [ ] Phene Burfi
+- [x] Masti Samosa (`dish-masti-samosa.jpg`)
+- [x] Anguru Dana (`dish-anguru-dana.jpg`)
+- [x] Phene Burfi (`dish-phene-burfi.jpg`)
 - [x] Agra Peta (`dish-agra-petha.jpg`)
-- [ ] Badam Burfi
+- [x] Badam Burfi (`dish-badam-burfi.jpg`)
 - [x] Chocolate Cake (`dish-chocolate-cake.jpg`)
 - [x] Son Papudi (`dish-son-papdi.jpg`)
-- [ ] Coconut Buri
-- [ ] Badam Pista Cake
+- [x] Coconut Buri (`dish-coconut-buri.jpg`)
+- [x] Badam Pista Cake (`dish-badam-pista-cake.jpg`)
 - [x] Chandrakala (`dish-chandrakala.jpg`)
-- [ ] Milk Mysorepak
+- [x] Milk Mysorepak (`dish-milk-mysorepak.jpg`)
 - [x] Ravva Kesari (`dish-rava-kesari.jpg`)
-- [ ] Pineapple Kesari
+- [x] Pineapple Kesari (`dish-pineapple-kesari.jpg`)
 - [x] Carrot Halwa (`dish-carrot-halwa.jpg`)
-- [ ] Juckfruit Halwa
-- [ ] Kaddu Ka Halwa
+- [x] Juckfruit Halwa (`dish-juckfruit-halwa.jpg`)
+- [x] Kaddu Ka Halwa (`dish-kaddu-ka-halwa.jpg`)
 - [x] Bombay Halwa (`dish-bombay-halwa.jpg`)
-- [ ] Appi Payasam
-- [ ] Haya Griva
-- [ ] Laxmi Payasam
+- [x] Appi Payasam (`dish-appi-payasam.jpg`)
+- [x] Haya Griva (`dish-haya-griva.jpg`)
+- [x] Laxmi Payasam (`dish-laxmi-payasam.jpg`)
 - [x] Samiya Payasam (`dish-semiya-payasam.jpg`)
-- [ ] Kadduka Kheer
+- [x] Kadduka Kheer (`dish-kadduka-kheer.jpg`)
 - [x] Pala Payasam (`dish-pala-payasam.jpg`)
 
-### Hot & Khara (14/26 with photos)
+### Hot & Khara (26/26 with photos)
 - [x] Samosa (`samosa.jpg`)
 - [x] Babycorn 65 (`dish-babycorn-65.jpg`)
-- [ ] Veg 65
+- [x] Veg 65 (`dish-veg-65.jpg`)
 - [x] Goby 65 (`dish-gobi-65.jpg`)
-- [ ] Alu 65
+- [x] Alu 65 (`dish-alu-65.jpg`)
 - [x] Manchoria (`dish-manchoria.jpg`)
-- [ ] Navarang Chuduva
-- [ ] Khara Bundi
-- [ ] Kabage Pakoda
+- [x] Navarang Chuduva (`dish-navarang-chuduva.jpg`)
+- [x] Khara Bundi (`dish-khara-bundi.jpg`)
+- [x] Kabage Pakoda (`dish-kabage-pakoda.jpg`)
 - [x] Palak Pokada (`dish-palak-pakoda.jpg`)
 - [x] Alu Karam (`dish-alu-karam.jpg`)
-- [ ] Arati Bajji
+- [x] Arati Bajji (`dish-arati-bajji.jpg`)
 - [x] Cut Mirchi (`dish-cut-mirchi.jpg`)
-- [ ] Jaipur Bendi
-- [ ] Brinjal Bajji
+- [x] Jaipur Bendi (`dish-jaipur-bendi.jpg`)
+- [x] Brinjal Bajji (`dish-brinjal-bajji.jpg`)
 - [x] Mirchi Bajji (`dish-mirchi-bajji.jpg`)
 - [x] Sev (`dish-sev.jpg`)
-- [ ] Ghati
+- [x] Ghati (`dish-ghati.jpg`)
 - [x] Murukulu (`dish-murukulu.jpg`)
 - [x] Alu Bonda (`dish-alu-bonda.jpg`)
 - [x] Mysore Bajji (`dish-mysore-bajji.jpg`)
-- [ ] Alu Bajji
-- [ ] Onion Pakoda
-- [ ] Pan Bajji
+- [x] Alu Bajji (`dish-alu-bajji.jpg`)
+- [x] Onion Pakoda (`dish-onion-pakoda.jpg`)
+- [x] Pan Bajji (`dish-pan-bajji.jpg`)
 - [x] Paneer Pakoda (`dish-paneer-pakoda.jpg`)
 - [x] Chips (`dish-chips.jpg`)
 
-### Fry Curries (2/5 with photos)
+### Fry Curries (5/5 with photos)
 - [x] Alu Fry (`dish-alu-fry.jpg`)
 - [x] Bendi Fry (`dish-bhindi-fry.jpg`)
-- [ ] Donda Fry
-- [ ] Kanda Fry
-- [ ] Chama Fry
+- [x] Donda Fry (`dish-donda-fry.jpg`)
+- [x] Kanda Fry (`dish-kanda-fry.jpg`)
+- [x] Chama Fry (`dish-chama-fry.jpg`)
 
-### North Indian Curries (9/21 with photos)
-- [ ] Paneer Butter Masala
+### North Indian Curries (21/21 with photos)
+- [x] Paneer Butter Masala (`dish-paneer-butter-masala.jpg`)
 - [x] Palak Paneer (`dish-palak-paneer.jpg`)
 - [x] Paneer Tikka (`dish-paneer-tikka.jpg`)
-- [ ] Navaratan Kurma
-- [ ] Vege Kurma
+- [x] Navaratan Kurma (`dish-navaratan-kurma.jpg`)
+- [x] Vege Kurma (`dish-vege-kurma.jpg`)
 - [x] Alu Mutter (`dish-aloo-mutter.jpg`)
 - [x] Alu Govi (`dish-aloo-gobi.jpg`)
 - [x] Dum Alu (`dish-dum-aloo.jpg`)
-- [ ] Alu Ginger
-- [ ] Baigan Barta
+- [x] Alu Ginger (`dish-alu-ginger.jpg`)
+- [x] Baigan Barta (`dish-baigan-barta.jpg`)
 - [x] Bagara Baigan (`dish-bagara-baingan.jpg`)
-- [ ] Veg Kofta
-- [ ] Malai Kofta
+- [x] Veg Kofta (`dish-veg-kofta.jpg`)
+- [x] Malai Kofta (`dish-malai-kofta.jpg`)
 - [x] Shahi Paneer (`dish-shahi-paneer.jpg`)
 - [x] Mirchi Salan (`dish-mirchi-salan.jpg`)
-- [ ] Capscum Masala
-- [ ] Drum Stick Masala
-- [ ] Stuffed Tamoto
-- [ ] Chole With Paneer
+- [x] Capscum Masala (`dish-capscum-masala.jpg`)
+- [x] Drum Stick Masala (`dish-drum-stick-masala.jpg`)
+- [x] Stuffed Tamoto (`dish-stuffed-tamoto.jpg`)
+- [x] Chole With Paneer (`dish-chole-with-paneer.jpg`)
 - [x] Rajma (`dish-rajma.jpg`)
-- [ ] Vegetable Taka Tak
+- [x] Vegetable Taka Tak (`dish-vegetable-taka-tak.jpg`)
 
-### South Indian Curries (3/19 with photos)
-- [ ] Alu Upma Curry
-- [ ] Alu Karam Curry
+### South Indian Curries (19/19 with photos)
+- [x] Alu Upma Curry (`dish-alu-upma-curry.jpg`)
+- [x] Alu Karam Curry (`dish-alu-karam-curry.jpg`)
 - [x] Gutti Vankaya (`dish-gutti-vankaya.jpg`)
-- [ ] Vankaya Karampetti
-- [ ] Beens Curry
-- [ ] Dosakaya Borada
-- [ ] Banana Curry
-- [ ] Cabage Curry
-- [ ] Capscum Curry
-- [ ] Donda Curry
-- [ ] Alu Methi
-- [ ] Mix Veg Curry
-- [ ] Kanda Bachalli
+- [x] Vankaya Karampetti (`dish-vankaya-karampetti.jpg`)
+- [x] Beens Curry (`dish-beens-curry.jpg`)
+- [x] Dosakaya Borada (`dish-dosakaya-borada.jpg`)
+- [x] Banana Curry (`dish-banana-curry.jpg`)
+- [x] Cabage Curry (`dish-cabage-curry.jpg`)
+- [x] Capscum Curry (`dish-capscum-curry.jpg`)
+- [x] Donda Curry (`dish-donda-curry.jpg`)
+- [x] Alu Methi (`dish-alu-methi.jpg`)
+- [x] Mix Veg Curry (`dish-mix-veg-curry.jpg`)
+- [x] Kanda Bachalli (`dish-kanda-bachalli.jpg`)
 - [x] Availi (`dish-avial.jpg`)
-- [ ] Gowar Palli Curry
+- [x] Gowar Palli Curry (`dish-gowar-palli-curry.jpg`)
 - [x] Madars Kootu (`dish-madras-kootu.jpg`)
-- [ ] Bendi Kairas
-- [ ] Pineapple Kairas
-- [ ] Karela Kairas
+- [x] Bendi Kairas (`dish-bendi-kairas.jpg`)
+- [x] Pineapple Kairas (`dish-pineapple-kairas.jpg`)
+- [x] Karela Kairas (`dish-karela-kairas.jpg`)
 
-### Dal, Sambar & Rasam (5/17 with photos)
+### Dal, Sambar & Rasam (17/17 with photos)
 - [x] Tomato Dal (`dish-tomato-dal.jpg`)
 - [x] Palak Dal (`dish-palak-dal.jpg`)
-- [ ] Menthan Totakura Pappu
-- [ ] Gongura Pappu
-- [ ] Dosakaya Pappu
-- [ ] Mango Dal
-- [ ] Lemon Dal
-- [ ] Birakaya Pappu
+- [x] Menthan Totakura Pappu (`dish-menthan-totakura-pappu.jpg`)
+- [x] Gongura Pappu (`dish-gongura-pappu.jpg`)
+- [x] Dosakaya Pappu (`dish-dosakaya-pappu.jpg`)
+- [x] Mango Dal (`dish-mango-dal.jpg`)
+- [x] Lemon Dal (`dish-lemon-dal.jpg`)
+- [x] Birakaya Pappu (`dish-birakaya-pappu.jpg`)
 - [x] Kootu (`dish-kootu.jpg`)
 - [x] Madres Samber (`dish-madras-sambar.jpg`)
 - [x] Karnataka Samber (`dish-karnataka-sambar.jpg`)
-- [ ] Majjiga Pulusu
-- [ ] Tamota Rasam
-- [ ] Pepper Rasam
-- [ ] Mysore Rasam
-- [ ] Lemon Rasam
-- [ ] Pachi Pulusu
+- [x] Majjiga Pulusu (`dish-majjiga-pulusu.jpg`)
+- [x] Tamota Rasam (`dish-tamato-rasam.jpg`)
+- [x] Pepper Rasam (`dish-pepper-rasam.jpg`)
+- [x] Mysore Rasam (`dish-mysore-rasam.jpg`)
+- [x] Lemon Rasam (`dish-lemon-rasam.jpg`)
+- [x] Pachi Pulusu (`dish-pachi-pulusu.jpg`)
 
-### Pickles (5/22 with photos)
-- [ ] Dosakaya Pickle
+### Pickles (22/22 with photos)
+- [x] Dosakaya Pickle (`dish-dosakaya-pickle.jpg`)
 - [x] Gongura Pickle (`dish-gongura-pickle.jpg`)
-- [ ] Tamato Pickle
-- [ ] Chintakaya Chatni
+- [x] Tamato Pickle (`dish-tamato-pickle.jpg`)
+- [x] Chintakaya Chatni (`dish-chintakaya-chatni.jpg`)
 - [x] Coconut Chatni (`dish-coconut-chutney.jpg`)
-- [ ] Kachha Tamato Chatni
-- [ ] Birakaya Chatni
-- [ ] Allam Chatni
-- [ ] Til Chatni
-- [ ] Mixed Dal Chatni
-- [ ] Gobi Pickle
-- [ ] Vegetable Pickle
+- [x] Kachha Tamato Chatni (`dish-kachha-tamato-chatni.jpg`)
+- [x] Birakaya Chatni (`dish-birakaya-chatni.jpg`)
+- [x] Allam Chatni (`dish-allam-chatni.jpg`)
+- [x] Til Chatni (`dish-til-chatni.jpg`)
+- [x] Mixed Dal Chatni (`dish-mixed-dal-chatni.jpg`)
+- [x] Gobi Pickle (`dish-gobi-pickle.jpg`)
+- [x] Vegetable Pickle (`dish-vegetable-pickle.jpg`)
 - [x] Mango Pickle (`dish-mango-pickle.jpg`)
-- [ ] Dosakaya Mukkala Pachadi
-- [ ] Karivepak Podi
-- [ ] Kandi Podi
-- [ ] Karam Podi
+- [x] Dosakaya Mukkala Pachadi (`dish-dosakaya-mukkala-pachadi.jpg`)
+- [x] Karivepak Podi (`dish-karivepak-podi.jpg`)
+- [x] Kandi Podi (`dish-kandi-podi.jpg`)
+- [x] Karam Podi (`dish-karam-podi.jpg`)
 - [x] Chatni Podi (`dish-chutney-powder.jpg`)
-- [ ] Mentham Podi
-- [ ] Katta Meta Chatni
-- [ ] Pudina Chatni
+- [x] Mentham Podi (`dish-mentham-podi.jpg`)
+- [x] Katta Meta Chatni (`dish-katta-meta-chatni.jpg`)
+- [x] Pudina Chatni (`dish-pudina-chatni.jpg`)
 - [x] Tiffin Chatni (`dish-tiffin-chutney.jpg`)
 
-### Rice, Palav & Biryani (8/13 with photos)
-- [ ] Veg Palav
-- [ ] Green Peas Palav
-- [ ] Shahe Mutter Palav
-- [ ] Dumka Biryani
-- [ ] Lehar Biryani
+### Rice, Palav & Biryani (13/13 with photos)
+- [x] Veg Palav (`dish-veg-palav.jpg`)
+- [x] Green Peas Palav (`dish-green-peas-palav.jpg`)
+- [x] Shahe Mutter Palav (`dish-shahe-mutter-palav.jpg`)
+- [x] Dumka Biryani (`dish-dumka-biryani.jpg`)
+- [x] Lehar Biryani (`dish-lehar-biryani.jpg`)
 - [x] Jeera Rice (`dish-jeera-rice.jpg`)
 - [x] Lemon Rice (`dish-lemon-rice.jpg`)
 - [x] Tamarind Rice (`dish-tamarind-rice.jpg`)
@@ -194,62 +194,62 @@
 - [x] Bisi Bela Bath (`dish-bisi-bele-bath.jpg`)
 - [x] Pongal Khichdi (`dish-pongal-khichdi.jpg`)
 
-### Soups & Salads (2/5 with photos)
+### Soups & Salads (5/5 with photos)
 - [x] Tamoto Soup (`dish-tomato-soup.jpg`)
-- [ ] Vegetable Soup
-- [ ] Baby Corn Soup
-- [ ] Vegetable Salad
+- [x] Vegetable Soup (`dish-vegetable-soup.jpg`)
+- [x] Baby Corn Soup (`dish-baby-corn-soup.jpg`)
+- [x] Vegetable Salad (`dish-vegetable-salad.jpg`)
 - [x] Fruit Chat (`dish-fresh-fruit-salad.jpg`)
 
-### Chat Items (4/7 with photos)
+### Chat Items (7/7 with photos)
 - [x] Cut Let (`dish-cutlet.jpg`)
-- [ ] Ragada
+- [x] Ragada (`dish-ragada.jpg`)
 - [x] Bale Puri (`dish-bhel-puri.jpg`)
 - [x] Pav Bajji (`dish-pav-bhaji.jpg`)
-- [ ] Vegtable Samosa
-- [ ] Kachori
+- [x] Vegtable Samosa (`dish-vegtable-samosa.jpg`)
+- [x] Kachori (`dish-kachori.jpg`)
 - [x] Pani Puri (`pani-puri.jpg`)
 
-### Puri, Roti & Naan (11/17 with photos)
+### Puri, Roti & Naan (17/17 with photos)
 - [x] Puri (`dish-puri.jpg`)
-- [ ] Palak Puri
-- [ ] Masala Puri
+- [x] Palak Puri (`dish-palak-puri.jpg`)
+- [x] Masala Puri (`dish-masala-puri.jpg`)
 - [x] Parotha (`dish-paratha.jpg`)
 - [x] Alu Parotha (`dish-aloo-paratha.jpg`)
 - [x] Mooli Parotha (`dish-mooli-parotha.jpg`)
 - [x] Methi Parotha (`dish-methi-paratha.jpg`)
-- [ ] Vegtable Parotha
+- [x] Vegtable Parotha (`dish-vegtable-parotha.jpg`)
 - [x] Roti (`dish-roti.jpg`)
-- [ ] Tanduri Roti
+- [x] Tanduri Roti (`dish-tanduri-roti.jpg`)
 - [x] Jawari Roti (`dish-jawari-roti.jpg`)
 - [x] Chapathi (`dish-chapathi.jpg`)
 - [x] Butter Nan (`dish-butter-naan.jpg`)
-- [ ] Peshaari Nan
+- [x] Peshaari Nan (`dish-peshaari-nan.jpg`)
 - [x] Kulcha (`dish-kulcha.jpg`)
 - [x] Batoora (`dish-bhatura.jpg`)
-- [ ] Rumali Roti
+- [x] Rumali Roti (`dish-rumali-roti.jpg`)
 
-### Ice Creams & Drinks (4/8 with photos)
+### Ice Creams & Drinks (8/8 with photos)
 - [x] Vanilla / Pista Ice Cream (`dish-vanilla-ice-cream.jpg`)
 - [x] Strawbury Ice Cream (`dish-strawberry-ice-cream.jpg`)
-- [ ] Butter Stoch Ice Cream
-- [ ] Kasata
-- [ ] Kesar Ice Cream
+- [x] Butter Stoch Ice Cream (`dish-butter-stoch-ice-cream.jpg`)
+- [x] Kasata (`dish-kasata.jpg`)
+- [x] Kesar Ice Cream (`dish-kesar-ice-cream.jpg`)
 - [x] Tutti Frutiy (`dish-tutti-frutti-ice-cream.jpg`)
-- [ ] All Types of Cool Drinks
+- [x] All Types of Cool Drinks (`dish-all-types-of-cool-drinks.jpg`)
 - [x] All Types of Fresh Fruit Juices (`dish-fruit-juice.jpg`)
 
-### Raitha (0/5 with photos)
-- [ ] Onion Raitha
-- [ ] Kheera Onion Raitha
-- [ ] Tomato Raitha
-- [ ] Boondi Raitha
-- [ ] Dry Fruit Raitha
+### Raitha (5/5 with photos)
+- [x] Onion Raitha (`dish-onion-raitha.jpg`)
+- [x] Kheera Onion Raitha (`dish-kheera-onion-raitha.jpg`)
+- [x] Tomato Raitha (`dish-tomato-raitha.jpg`)
+- [x] Boondi Raitha (`dish-boondi-raitha.jpg`)
+- [x] Dry Fruit Raitha (`dish-dry-fruit-raitha.jpg`)
 
-### Break-Fast (11/14 with photos)
+### Break-Fast (14/14 with photos)
 - [x] Idli (`dish-idli.jpg`)
 - [x] Rawa Idli (`dish-rava-idli.jpg`)
-- [ ] Veg Idli
+- [x] Veg Idli (`dish-veg-idli.jpg`)
 - [x] Wada (`dish-vada.jpg`)
 - [x] Vermicelli Upma (`dish-vermicelli-upma.jpg`)
 - [x] Tomato Bath (`dish-tomato-bath.jpg`)
@@ -258,7 +258,7 @@
 - [x] Onion Dosa (`dish-onion-dosa.jpg`)
 - [x] Uttappa (`dish-uttapam.jpg`)
 - [x] Pesaratu (`dish-pesarattu.jpg`)
-- [ ] Pongal
-- [ ] Rawa Pongal
+- [x] Pongal (`dish-pongal.jpg`)
+- [x] Rawa Pongal (`dish-rawa-pongal.jpg`)
 - [x] Pohe (`dish-pohe.jpg`)
 
