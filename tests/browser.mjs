@@ -23,7 +23,7 @@ try{
   await expect(page.locator('[name="guests"]')).toHaveValue('50');
   await page.getByRole('button',{name:'Review my request'}).click();
   await expect(page.locator('#review-dialog')).toBeVisible();await expect(page.locator('#review-content')).toContainText('Excluded: Hot snack');
-  const href=await page.locator('#whatsapp-link').getAttribute('href');const url=new URL(href);assert.equal(url.hostname,'wa.me');assert.equal(url.pathname,'/919618406012');const text=url.searchParams.get('text');for(const value of ['Test Family','9999999999','2099-12-20','Guests: 50','Test Hall','Exclude: Hot snack','Samosa','No peanuts','not a confirmed booking'])assert.ok(text.includes(value),value);
+  const href=await page.locator('#whatsapp-link').getAttribute('href');const url=new URL(href);assert.equal(url.hostname,'wa.me');assert.equal(url.pathname,'/919533032737');const text=url.searchParams.get('text');for(const value of ['Test Family','9999999999','2099-12-20','Guests: 50','Test Hall','Exclude: Hot snack','Samosa','No peanuts','not a confirmed booking'])assert.ok(text.includes(value),value);
   assert.ok(await page.locator('#review-content .review-dish img').count()>=10);
   const missing=await page.locator('#review-content img').evaluateAll(imgs=>imgs.filter(i=>!i.complete||i.naturalWidth===0).map(i=>i.src));assert.deepEqual(missing,[]);
   await page.screenshot({path:`test-results/review-${width}.png`});await page.locator('#review-dialog [data-close]').click();await page.evaluate(()=>scrollTo(0,0));await page.screenshot({path:`test-results/home-${width}.png`,fullPage:false});
