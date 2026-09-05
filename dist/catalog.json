@@ -1,0 +1,4006 @@
+{
+  "business": {
+    "name": "Sri Vinayaka Caterers",
+    "tagline": "Specialist in: South & North Indian Foods & Chats",
+    "description": "Specialist in South & North Indian Foods & Chats for weddings, house functions and celebrations in Hyderabad. Proprietor: P. Damodha Krishna.",
+    "phone": "+919618406012",
+    "alternatePhone": "+919533032737",
+    "whatsappNumber": "919618406012",
+    "email": "srivinayakacaterers@gmail.com",
+    "address": "11-11-157/1, Plot No. 105, Road No. 02, Telephone Colony, R.K. Puram, Hyderabad 500035",
+    "currency": "INR",
+    "heroImage": "hero-catering.jpg"
+  },
+  "ordering": {
+    "minimumGuests": 10,
+    "defaultGuests": 100,
+    "pricesApproved": false,
+    "priceNote": "Final price depends on your menu, guest count, service and venue. The owner will confirm availability and a complete quote, including any transport, staffing and taxes."
+  },
+  "photoCredits": [
+    {
+      "file": "hero-catering.jpg",
+      "creator": "Kanteen catering",
+      "source": "https://unsplash.com/photos/mzmyZvZ4Gks"
+    },
+    {
+      "file": "silver-plate.jpg",
+      "creator": "Zoshua Colah",
+      "source": "https://unsplash.com/photos/4pT9e68P_mU"
+    },
+    {
+      "file": "gold-plate.jpg",
+      "creator": "Zoshua Colah",
+      "source": "https://unsplash.com/photos/dncjnYtmWHo"
+    },
+    {
+      "file": "platinum-plate.jpg",
+      "creator": "vipul141",
+      "source": "https://pixabay.com/photos/indian-food-thali-vegetarian-food-2951094/"
+    },
+    {
+      "file": "samosa.jpg",
+      "creator": "Mohammad Fahim",
+      "source": "https://unsplash.com/photos/iaEZgGPnEwo"
+    },
+    {
+      "file": "pani-puri.jpg",
+      "creator": "Pop & Zebra",
+      "source": "https://unsplash.com/photos/yd6YjfifHKw"
+    },
+    {
+      "file": "dish-gulab-jamun.jpg",
+      "creator": "Suyash.dwivedi",
+      "source": "https://commons.wikimedia.org/wiki/File:Two_Gulab_Jamun_in_a_plate_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Resized by Wikimedia; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-rava-kesari.jpg",
+      "creator": "Harsha K R from Bangalore, India",
+      "source": "https://commons.wikimedia.org/wiki/File:Kesari_Bath_(5832083727).jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+      "changes": "Resized by Wikimedia; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-pala-payasam.jpg",
+      "creator": "Vnair23",
+      "source": "https://commons.wikimedia.org/wiki/File:Rice_pudding_also_called_payasam_or_kheer.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Resized by Wikimedia; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-gobi-65.jpg",
+      "creator": "Alvinjesusyouth",
+      "source": "https://commons.wikimedia.org/wiki/File:Gobi_65_(cauliflower_fry).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Resized by Wikimedia; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-palak-pakoda.jpg",
+      "creator": "Mdsmds0",
+      "source": "https://commons.wikimedia.org/wiki/File:Palak_Pakoda_(Spinach_Pakoda).JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Resized by Wikimedia; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-veg-biryani.jpg",
+      "creator": "Phadke09",
+      "source": "https://commons.wikimedia.org/wiki/File:Vegetable_Biryani_IMG_001.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Resized by Wikimedia; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-lemon-rice.jpg",
+      "creator": "Nithyasrm",
+      "source": "https://commons.wikimedia.org/wiki/File:Picture_of_Lemon_rice_dish.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Resized by Wikimedia; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-laddu.jpg",
+      "creator": "Nandhinikandhasamy",
+      "source": "https://commons.wikimedia.org/wiki/File:Laddu_Sweet.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-srikhanda.jpg",
+      "creator": "Secretlondon",
+      "source": "https://commons.wikimedia.org/wiki/File:Shrikhand_london_kastoori.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-basundi.jpg",
+      "creator": "Wefffrrr",
+      "source": "https://commons.wikimedia.org/wiki/File:Basundi_in_Maharashtrian_style.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-jilebi.jpg",
+      "creator": "Gpkp",
+      "source": "https://commons.wikimedia.org/wiki/File:Basavanagudi_Kadalekai_Parishe_(2025)_Bangalore_(86).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-balushai.jpg",
+      "creator": "Patelaahil",
+      "source": "https://commons.wikimedia.org/wiki/File:Home_made_makkhan_bada.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-palli-chekki.jpg",
+      "creator": "Zeel Patel",
+      "source": "https://commons.wikimedia.org/wiki/File:Peanut_Chikki.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-kakinada-kaja.jpg",
+      "creator": "SnapMeUp",
+      "source": "https://commons.wikimedia.org/wiki/File:Andhra_Telangana_Sweets_-_Kakinada_Kaja.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-carrot-halwa.jpg",
+      "creator": "AmanAgrahari01",
+      "source": "https://commons.wikimedia.org/wiki/File:Cuisine_(268)_44.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-jangri.jpg",
+      "creator": "kspoddar",
+      "source": "https://commons.wikimedia.org/wiki/File:JalebiIndia.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-mysore-pak.jpg",
+      "creator": "Charles Haynes",
+      "source": "https://commons.wikimedia.org/wiki/File:Mysore_pak.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-bobbatlu.jpg",
+      "creator": "Rambhade",
+      "source": "https://commons.wikimedia.org/wiki/File:Puran_Poli.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-rasgulla.jpg",
+      "creator": "HrichikHv",
+      "source": "https://commons.wikimedia.org/wiki/File:Rasgulla.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-kaju-katli.jpg",
+      "creator": "najeeb shaik",
+      "source": "https://commons.wikimedia.org/wiki/File:Kaju_katli_sweet.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-kalakand.jpg",
+      "creator": "Tripped Wire",
+      "source": "https://commons.wikimedia.org/wiki/File:Koderma_Kalakand.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-agra-petha.jpg",
+      "creator": "PJ.wikilovesfood",
+      "source": "https://commons.wikimedia.org/wiki/File:Petha_kesari.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-chocolate-cake.jpg",
+      "creator": "Tracy Hunter from Kabul,, Afghanistan",
+      "source": "https://commons.wikimedia.org/wiki/File:Chocolate_fudge_cake.jpg",
+      "license": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-son-papdi.jpg",
+      "creator": "Neil.loamas",
+      "source": "https://commons.wikimedia.org/wiki/File:Son_papadi.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-chandrakala.jpg",
+      "creator": "Chathirathan",
+      "source": "https://commons.wikimedia.org/wiki/File:Chandirakala.jpg",
+      "license": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-bombay-halwa.jpg",
+      "creator": "Shilpab2",
+      "source": "https://commons.wikimedia.org/wiki/File:Karachi_Halwa_(Corn_Flour_Halwa).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-mirchi-bajji.jpg",
+      "creator": "Pyaaz Kachori",
+      "source": "https://commons.wikimedia.org/wiki/File:Mirchi_Bada_from_Jodhpur_1.jpg",
+      "license": "CC0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-sev.jpg",
+      "creator": "User:Randhirreddy",
+      "source": "https://commons.wikimedia.org/wiki/File:Sev_2013-12-01_16-57.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-murukulu.jpg",
+      "creator": "Thamizhpparithi Maari",
+      "source": "https://commons.wikimedia.org/wiki/File:A_Traditional_Tamil_Snack_Murukku.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-punugulu.jpg",
+      "creator": "Balajijagadesh",
+      "source": "https://commons.wikimedia.org/wiki/File:Punugulu1.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-chips.jpg",
+      "creator": "Evan-Amos",
+      "source": "https://commons.wikimedia.org/wiki/File:Potato-Chips.jpg",
+      "license": "Public domain",
+      "licenseURL": "https://creativecommons.org/publicdomain/mark/1.0/",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-bisi-bele-bath.jpg",
+      "creator": "Food and Remedy, LLC",
+      "source": "https://commons.wikimedia.org/wiki/File:Bisi_Bele_Bath_(Bisibelebath).JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-jeera-rice.jpg",
+      "creator": "Sonia Goyal",
+      "source": "https://commons.wikimedia.org/wiki/File:Jeera-rice.JPG",
+      "license": "CC BY-SA 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-tamarind-rice.jpg",
+      "creator": "KALX999",
+      "source": "https://commons.wikimedia.org/wiki/File:Pulihara.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-white-rice.jpg",
+      "creator": "Ocdp",
+      "source": "https://commons.wikimedia.org/wiki/File:Meshi_001.jpg",
+      "license": "CC0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-curd-rice.jpg",
+      "creator": "Sudharshan Shanmugasundaram",
+      "source": "https://commons.wikimedia.org/wiki/File:Curd_Rice.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-pongal-khichdi.jpg",
+      "creator": "Shafana jasmine",
+      "source": "https://commons.wikimedia.org/wiki/File:Ven_pongal_with_sambar_and_chutney.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-puri.jpg",
+      "creator": "Vidyascooking",
+      "source": "https://commons.wikimedia.org/wiki/File:Fluffy_Poori_(cropped).JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-paratha.jpg",
+      "creator": "Nithyasrm",
+      "source": "https://commons.wikimedia.org/wiki/File:Triangle_paratha_(cropped).JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-roti.jpg",
+      "creator": "Famartin",
+      "source": "https://commons.wikimedia.org/wiki/File:2020-05-08_19_34_28_Chapati_being_made_in_a_pan_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-chapathi.jpg",
+      "creator": "KittyKaht from Hong Kong, Hong Kong",
+      "source": "https://commons.wikimedia.org/wiki/File:2_Chapati_warm_and_ready_to_be_eaten.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-butter-naan.jpg",
+      "creator": "snowpea&amp;bokchoi",
+      "source": "https://commons.wikimedia.org/wiki/File:Annapurna_Naan.jpg",
+      "license": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-kulcha.jpg",
+      "creator": "Gaurav Nemade",
+      "source": "https://commons.wikimedia.org/wiki/File:Chole_Kulcha_Meal_-_Order_Food_Online_in_Mumbai_(31013272937).jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-bhatura.jpg",
+      "creator": "Sanya1492",
+      "source": "https://commons.wikimedia.org/wiki/File:Bhatoora.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-pav-bhaji.jpg",
+      "creator": "Rupali Banarase",
+      "source": "https://commons.wikimedia.org/wiki/File:Bambayya_Pav_bhaji.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-fruit-juice.jpg",
+      "creator": "rawpixel.com",
+      "source": "https://commons.wikimedia.org/wiki/File:Orangejuice.jpg",
+      "license": "CC0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-ice-cream.jpg",
+      "creator": "Nicolas Ettlin",
+      "source": "https://commons.wikimedia.org/wiki/File:Ice_cream_with_whipped_cream,_chocolate_syrup,_and_a_wafer_(cropped).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-cutlet.jpg",
+      "creator": "Raveesh Vyas from [Ahmedabad, Noida], India",
+      "source": "https://commons.wikimedia.org/wiki/File:Aloo_Tikki_served_with_chutneys.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-bhel-puri.jpg",
+      "creator": "Barry Pousman from New York, NY",
+      "source": "https://commons.wikimedia.org/wiki/File:Behael_Puri_(6105489342).jpg",
+      "license": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-dahi-puri.jpg",
+      "creator": "Dheerajk88",
+      "source": "https://commons.wikimedia.org/wiki/File:Sev_puri_with_sweet_curd.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-papdi-puri.jpg",
+      "creator": "Ravi Talwar",
+      "source": "https://commons.wikimedia.org/wiki/File:Papri_Pakori_Chat.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-fresh-fruit-salad.jpg",
+      "creator": "dnm",
+      "source": "https://commons.wikimedia.org/wiki/File:Fruktsallad_(Fruit_salad).jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-bagara-baingan.jpg",
+      "creator": "Miansari66",
+      "source": "https://commons.wikimedia.org/wiki/File:Baghare_Baingan.JPG",
+      "license": "CC0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-chole-masala.jpg",
+      "creator": "Simon Law (sfllaw) from Montréal, QC, Canada",
+      "source": "https://commons.wikimedia.org/wiki/File:Chana_masala.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-paneer-tikka.jpg",
+      "creator": "Meghana Mohanty",
+      "source": "https://commons.wikimedia.org/wiki/File:Paneer_tikka.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-aloo-mutter.jpg",
+      "creator": "Quadell",
+      "source": "https://commons.wikimedia.org/wiki/File:Aloo_Mattar.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-aloo-gobi.jpg",
+      "creator": "Sapanabehl",
+      "source": "https://commons.wikimedia.org/wiki/File:Aloo_Ghobi.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-dum-aloo.jpg",
+      "creator": "Maskaravivek",
+      "source": "https://commons.wikimedia.org/wiki/File:Kashmiri_Dum_aloo.jpeg",
+      "license": "CC BY 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-shahi-paneer.jpg",
+      "creator": "Om shankar singh",
+      "source": "https://commons.wikimedia.org/wiki/File:Shahi_panner.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-mirchi-salan.jpg",
+      "creator": "Miansari66",
+      "source": "https://commons.wikimedia.org/wiki/File:Hyderabadi_Hari_Mirchi_Ka_Salan.JPG",
+      "license": "CC0",
+      "licenseURL": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-rajma.jpg",
+      "creator": "Gaurav Nemade",
+      "source": "https://commons.wikimedia.org/wiki/File:Rajma_Masala_(32081557778).jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-avial.jpg",
+      "creator": "Samphotography",
+      "source": "https://commons.wikimedia.org/wiki/File:Ayiyal.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-madras-kootu.jpg",
+      "creator": "Sanjay Acharya",
+      "source": "https://commons.wikimedia.org/wiki/File:Cabbage_kootu.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-bhindi-fry.jpg",
+      "creator": "Monali.mishra",
+      "source": "https://commons.wikimedia.org/wiki/File:Bhindi_Masala.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-kootu.jpg",
+      "creator": "Sanjay Acharya",
+      "source": "https://commons.wikimedia.org/wiki/File:Cabbage_kootu.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-madras-sambar.jpg",
+      "creator": "Kalaiselvi Murugesan",
+      "source": "https://commons.wikimedia.org/wiki/File:Pumpkin_sambar.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-karnataka-sambar.jpg",
+      "creator": "Kalaiselvi Murugesan",
+      "source": "https://commons.wikimedia.org/wiki/File:Pumpkin_sambar.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-coconut-chutney.jpg",
+      "creator": "Mailz2kumar",
+      "source": "https://commons.wikimedia.org/wiki/File:Coconut_Chutney_-_Home_Made.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-tiffin-chutney.jpg",
+      "creator": "Mailz2kumar",
+      "source": "https://commons.wikimedia.org/wiki/File:Coconut_Chutney_-_Home_Made.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-idli.jpg",
+      "creator": "Soumya dey at English Wikipedia",
+      "source": "https://commons.wikimedia.org/wiki/File:Idli_Sambar.JPG",
+      "license": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-rava-idli.jpg",
+      "creator": "Upendra Kanda",
+      "source": "https://commons.wikimedia.org/wiki/File:Rava_Idli_(6005561226).jpg",
+      "license": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-vada.jpg",
+      "creator": "Lubnakarim06",
+      "source": "https://commons.wikimedia.org/wiki/File:Medu_Vada.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-dosa.jpg",
+      "creator": "Vee Satayamas from Bangkok, Thailand",
+      "source": "https://commons.wikimedia.org/wiki/File:Dosa_at_Sri_Ganesha_Restauran,_Bangkok_(44570742744).jpg",
+      "license": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-masala-dosa.jpg",
+      "creator": "Yakshitha",
+      "source": "https://commons.wikimedia.org/wiki/File:Masala_Dosa_2023.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-uttapam.jpg",
+      "creator": "Ramesh NG",
+      "source": "https://commons.wikimedia.org/wiki/File:Mini_Uttappam.jpg",
+      "license": "CC BY-SA 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-pesarattu.jpg",
+      "creator": "Ryallabandi at en.wikipedia",
+      "source": "https://commons.wikimedia.org/wiki/File:Pesarattu.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-tomato-soup.jpg",
+      "creator": "Ella Olsson from Stockholm, Sweden",
+      "source": "https://commons.wikimedia.org/wiki/File:Tomato_soup,_plant-based_(44040252791).jpg",
+      "license": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-vanilla-ice-cream.jpg",
+      "creator": "Steven Depolo",
+      "source": "https://commons.wikimedia.org/wiki/File:Vanilla_Ice_Cream_Cone_at_Camp_Manitoulin.jpg",
+      "license": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-pista-ice-cream.jpg",
+      "creator": "Ji-Elle",
+      "source": "https://commons.wikimedia.org/wiki/File:Glace_%C3%A0_la_pistache-Lipari.jpg",
+      "license": "CC BY-SA 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/3.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-strawberry-ice-cream.jpg",
+      "creator": "TheCulinaryGeek from Chicago, USA",
+      "source": "https://commons.wikimedia.org/wiki/File:Strawberry_ice_cream_cone_(5076899310).jpg",
+      "license": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-tutti-frutti-ice-cream.jpg",
+      "creator": "Snuggle",
+      "source": "https://commons.wikimedia.org/wiki/File:Tutti_frutti_ice-cream.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-plain-curd.jpg",
+      "creator": "Goumisao",
+      "source": "https://commons.wikimedia.org/wiki/File:Curd_in_a_traditional_Manipuri_earthen_pot.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-papad.jpg",
+      "creator": "Biswarup Ganguly",
+      "source": "https://commons.wikimedia.org/wiki/File:Roasted_Papad_-_Howrah_2013-11-02_4068.jpg",
+      "license": "CC BY 3.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/3.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-sambar.jpg",
+      "creator": "Kalaiselvi Murugesan",
+      "source": "https://commons.wikimedia.org/wiki/File:Pumpkin_sambar.JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-palak-paneer.jpg",
+      "creator": "Lopanayak",
+      "source": "https://commons.wikimedia.org/wiki/File:Palakpaneer_Rayagada_Odisha_0009.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-semiya-payasam.jpg",
+      "creator": "Muhammad Adnan Asim linkadnan from North Nazimabad, Karachi 74700 ( Sindh ), Pakistan",
+      "source": "https://commons.wikimedia.org/wiki/File:Sheer_Khurma.jpg",
+      "license": "CC BY 2.0",
+      "licenseURL": "https://creativecommons.org/licenses/by/2.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-methi-paratha.jpg",
+      "creator": "Rocky231293",
+      "source": "https://commons.wikimedia.org/wiki/File:Thepla_main.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-chutney-powder.jpg",
+      "creator": "Ravi Dwivedi",
+      "source": "https://commons.wikimedia.org/wiki/File:Idli_podi.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    },
+    {
+      "file": "dish-aloo-paratha.jpg",
+      "creator": "Nithyasrm",
+      "source": "https://commons.wikimedia.org/wiki/File:Triangle_paratha_(cropped).JPG",
+      "license": "CC BY-SA 4.0",
+      "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+      "changes": "Wikimedia thumbnail; displayed cropped to fit dish cards."
+    }
+  ],
+  "plans": [
+    {
+      "id": "silver",
+      "name": "Silver Plate",
+      "description": "A classic, satisfying wedding and celebration feast with essential traditional courses.",
+      "pricePerPlate": null,
+      "image": "silver-plate.jpg",
+      "illustrative": true,
+      "badge": "Popular choice",
+      "visible": true,
+      "includes": [
+        "Sweet",
+        "Hot snack",
+        "Vegetable fry",
+        "Flavoured rice",
+        "Plain rice",
+        "Dal / Pappu",
+        "Sambar / Rasam",
+        "Pickle",
+        "Roti pachadi",
+        "Papad",
+        "Curd"
+      ],
+      "slots": [
+        {
+          "id": "slot-1",
+          "label": "Sweet",
+          "count": 1,
+          "itemIds": [
+            "laddu",
+            "mohan-laddu",
+            "srikhand",
+            "basundi",
+            "jilebi",
+            "besan-chekki",
+            "cova-barfi",
+            "balushai",
+            "ravva-laddu",
+            "pheni-chekki",
+            "madata-kaja",
+            "kakinada-kaja",
+            "charoti",
+            "mandige",
+            "jhangri",
+            "mysorepak",
+            "bobbatlu",
+            "kadubu-karanja",
+            "annaras",
+            "rasgulla",
+            "gulab-jamun",
+            "kala-jamun",
+            "malai-rools",
+            "malai-sandwich",
+            "kaju-katli",
+            "pista-katli",
+            "kurbanika-meeta",
+            "kalakan",
+            "masti-samosa",
+            "anguru-dana",
+            "phene-burfi",
+            "agra-peta",
+            "badam-burfi",
+            "chocolate-cake",
+            "son-papudi",
+            "coconut-buri",
+            "badam-pista-cake",
+            "chandrakala",
+            "milk-mysorepak",
+            "ravva-kesari",
+            "pineapple-kesari",
+            "carrot-halwa",
+            "juckfruit-halwa",
+            "kaddu-ka-halwa",
+            "bombay-halwa",
+            "appi-payasam",
+            "haya-griva",
+            "laxmi-payasam",
+            "samiya-payasam",
+            "kadduka-kheer",
+            "pala-payasam"
+          ]
+        },
+        {
+          "id": "slot-2",
+          "label": "Hot snack",
+          "count": 1,
+          "itemIds": [
+            "samosa",
+            "babycorn-65",
+            "veg-65",
+            "goby-65",
+            "alu-65",
+            "manchoria",
+            "navarang-chuduva",
+            "khara-bundi",
+            "kabage-pakoda",
+            "palak-pokada",
+            "alu-karam",
+            "arati-bajji",
+            "cut-mirchi",
+            "jaipur-bendi",
+            "brinjal-bajji",
+            "mirchi-bajji",
+            "sev",
+            "ghati",
+            "murukulu",
+            "alu-bonda",
+            "mysore-bajji",
+            "alu-bajji",
+            "onion-pakoda",
+            "pan-bajji",
+            "paneer-pakoda",
+            "chips"
+          ]
+        },
+        {
+          "id": "slot-3",
+          "label": "Vegetable fry",
+          "count": 1,
+          "itemIds": [
+            "alu-fry",
+            "bendi-fry",
+            "donda-fry",
+            "kanda-fry",
+            "chama-fry"
+          ]
+        },
+        {
+          "id": "slot-4",
+          "label": "Flavoured rice",
+          "count": 1,
+          "itemIds": [
+            "veg-palav",
+            "green-peas-palav",
+            "shahe-mutter-palav",
+            "dumka-biryani",
+            "lehar-biryani",
+            "jeera-rice",
+            "lemon-rice",
+            "tamarind-rice",
+            "curd-rice",
+            "vangi-bath",
+            "bisi-bela-bath",
+            "pongal-khichdi"
+          ]
+        },
+        {
+          "id": "slot-5",
+          "label": "Plain rice",
+          "count": 1,
+          "itemIds": [
+            "white-rice"
+          ]
+        },
+        {
+          "id": "slot-6",
+          "label": "Dal / Pappu",
+          "count": 1,
+          "itemIds": [
+            "tomato-dal",
+            "palak-dal",
+            "menthan-totakura-pappu",
+            "gongura-pappu",
+            "dosakaya-pappu",
+            "mango-dal",
+            "lemon-dal",
+            "birakaya-pappu",
+            "kootu"
+          ]
+        },
+        {
+          "id": "slot-7",
+          "label": "Sambar / Rasam",
+          "count": 1,
+          "itemIds": [
+            "madres-samber",
+            "karnataka-samber",
+            "tamota-rasam",
+            "pepper-rasam",
+            "mysore-rasam",
+            "lemon-rasam",
+            "pachi-pulusu"
+          ]
+        },
+        {
+          "id": "slot-8",
+          "label": "Pickle",
+          "count": 1,
+          "itemIds": [
+            "dosakaya-pickle",
+            "gongura-pickle",
+            "tamato-pickle",
+            "chintakaya-chatni",
+            "gobi-pickle",
+            "vegetable-pickle",
+            "mango-pickle"
+          ]
+        },
+        {
+          "id": "slot-9",
+          "label": "Roti pachadi",
+          "count": 1,
+          "itemIds": [
+            "dosakaya-mukkala-pachadi",
+            "birakaya-chatni",
+            "kachha-tamato-chatni",
+            "coconut-chatni",
+            "allam-chatni",
+            "til-chatni",
+            "mixed-dal-chatni",
+            "katta-meta-chatni",
+            "pudina-chatni",
+            "tiffin-chatni"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gold",
+      "name": "Gold Plate",
+      "description": "An elevated feast with hot puris or rumali rotis, paneer or chole masala, vegetable biryani and raita.",
+      "pricePerPlate": null,
+      "image": "gold-plate.jpg",
+      "illustrative": true,
+      "badge": "Most loved",
+      "visible": true,
+      "includes": [
+        "Sweet",
+        "Hot snack",
+        "Vegetable fry",
+        "Flavoured rice",
+        "Puri / Rumali roti",
+        "Paneer / Chole masala",
+        "Vegetable biryani",
+        "Bagara baingan",
+        "Raita",
+        "Plain rice",
+        "Dal / Pappu",
+        "Sambar / Rasam",
+        "Pickle",
+        "Roti pachadi",
+        "Papad",
+        "Curd"
+      ],
+      "slots": [
+        {
+          "id": "slot-1",
+          "label": "Sweet",
+          "count": 1,
+          "itemIds": [
+            "laddu",
+            "mohan-laddu",
+            "srikhand",
+            "basundi",
+            "jilebi",
+            "besan-chekki",
+            "cova-barfi",
+            "balushai",
+            "ravva-laddu",
+            "pheni-chekki",
+            "madata-kaja",
+            "kakinada-kaja",
+            "charoti",
+            "mandige",
+            "jhangri",
+            "mysorepak",
+            "bobbatlu",
+            "kadubu-karanja",
+            "annaras",
+            "rasgulla",
+            "gulab-jamun",
+            "kala-jamun",
+            "malai-rools",
+            "malai-sandwich",
+            "kaju-katli",
+            "pista-katli",
+            "kurbanika-meeta",
+            "kalakan",
+            "masti-samosa",
+            "anguru-dana",
+            "phene-burfi",
+            "agra-peta",
+            "badam-burfi",
+            "chocolate-cake",
+            "son-papudi",
+            "coconut-buri",
+            "badam-pista-cake",
+            "chandrakala",
+            "milk-mysorepak",
+            "ravva-kesari",
+            "pineapple-kesari",
+            "carrot-halwa",
+            "juckfruit-halwa",
+            "kaddu-ka-halwa",
+            "bombay-halwa",
+            "appi-payasam",
+            "haya-griva",
+            "laxmi-payasam",
+            "samiya-payasam",
+            "kadduka-kheer",
+            "pala-payasam"
+          ]
+        },
+        {
+          "id": "slot-2",
+          "label": "Hot snack",
+          "count": 1,
+          "itemIds": [
+            "samosa",
+            "babycorn-65",
+            "veg-65",
+            "goby-65",
+            "alu-65",
+            "manchoria",
+            "navarang-chuduva",
+            "khara-bundi",
+            "kabage-pakoda",
+            "palak-pokada",
+            "alu-karam",
+            "arati-bajji",
+            "cut-mirchi",
+            "jaipur-bendi",
+            "brinjal-bajji",
+            "mirchi-bajji",
+            "sev",
+            "ghati",
+            "murukulu",
+            "alu-bonda",
+            "mysore-bajji",
+            "alu-bajji",
+            "onion-pakoda",
+            "pan-bajji",
+            "paneer-pakoda",
+            "chips"
+          ]
+        },
+        {
+          "id": "slot-3",
+          "label": "Vegetable fry",
+          "count": 1,
+          "itemIds": [
+            "alu-fry",
+            "bendi-fry",
+            "donda-fry",
+            "kanda-fry",
+            "chama-fry"
+          ]
+        },
+        {
+          "id": "slot-4",
+          "label": "Flavoured rice",
+          "count": 1,
+          "itemIds": [
+            "veg-palav",
+            "green-peas-palav",
+            "shahe-mutter-palav",
+            "dumka-biryani",
+            "lehar-biryani",
+            "jeera-rice",
+            "lemon-rice",
+            "tamarind-rice",
+            "curd-rice",
+            "vangi-bath",
+            "bisi-bela-bath",
+            "pongal-khichdi"
+          ]
+        },
+        {
+          "id": "slot-5",
+          "label": "Puri / Rumali roti",
+          "count": 1,
+          "itemIds": [
+            "puri",
+            "rumali-roti"
+          ]
+        },
+        {
+          "id": "slot-6",
+          "label": "Paneer / Chole masala",
+          "count": 1,
+          "itemIds": [
+            "paneer-butter-masala",
+            "palak-paneer",
+            "paneer-tikka",
+            "chole-with-paneer",
+            "shahi-paneer"
+          ]
+        },
+        {
+          "id": "slot-7",
+          "label": "Vegetable biryani",
+          "count": 1,
+          "itemIds": [
+            "dumka-biryani"
+          ]
+        },
+        {
+          "id": "slot-8",
+          "label": "Bagara baingan",
+          "count": 1,
+          "itemIds": [
+            "bagara-baigan"
+          ]
+        },
+        {
+          "id": "slot-9",
+          "label": "Raita",
+          "count": 1,
+          "itemIds": [
+            "onion-raitha",
+            "kheera-onion-raitha",
+            "tomato-raitha",
+            "boondi-raitha",
+            "dry-fruit-raitha"
+          ]
+        },
+        {
+          "id": "slot-10",
+          "label": "Plain rice",
+          "count": 1,
+          "itemIds": [
+            "white-rice"
+          ]
+        },
+        {
+          "id": "slot-11",
+          "label": "Dal / Pappu",
+          "count": 1,
+          "itemIds": [
+            "tomato-dal",
+            "palak-dal",
+            "menthan-totakura-pappu",
+            "gongura-pappu",
+            "dosakaya-pappu",
+            "mango-dal",
+            "lemon-dal",
+            "birakaya-pappu",
+            "kootu"
+          ]
+        },
+        {
+          "id": "slot-12",
+          "label": "Sambar / Rasam",
+          "count": 1,
+          "itemIds": [
+            "madres-samber",
+            "karnataka-samber",
+            "tamota-rasam",
+            "pepper-rasam",
+            "mysore-rasam",
+            "lemon-rasam",
+            "pachi-pulusu"
+          ]
+        },
+        {
+          "id": "slot-13",
+          "label": "Pickle",
+          "count": 1,
+          "itemIds": [
+            "dosakaya-pickle",
+            "gongura-pickle",
+            "tamato-pickle",
+            "chintakaya-chatni",
+            "gobi-pickle",
+            "vegetable-pickle",
+            "mango-pickle"
+          ]
+        },
+        {
+          "id": "slot-14",
+          "label": "Roti pachadi",
+          "count": 1,
+          "itemIds": [
+            "dosakaya-mukkala-pachadi",
+            "birakaya-chatni",
+            "kachha-tamato-chatni",
+            "coconut-chatni",
+            "allam-chatni",
+            "til-chatni",
+            "mixed-dal-chatni",
+            "katta-meta-chatni",
+            "pudina-chatni",
+            "tiffin-chatni"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "platinum",
+      "name": "Platinum Plate",
+      "description": "A grand royal spread featuring two sweets, two hot snacks, breads, paneer, biryani, masala curry and ice cream.",
+      "pricePerPlate": null,
+      "image": "platinum-plate.jpg",
+      "illustrative": true,
+      "badge": "Grand celebration",
+      "visible": true,
+      "includes": [
+        "Any 2 sweets",
+        "Any 2 hot snacks",
+        "Vegetable fry",
+        "Flavoured rice",
+        "Puri / Roti / Rumali roti",
+        "Paneer / Chole masala",
+        "Vegetable biryani / Palav",
+        "Raita",
+        "Masala curry",
+        "Plain rice",
+        "Dal / Pappu",
+        "Sambar",
+        "Rasam",
+        "Any 2 pickles",
+        "Roti pachadi",
+        "Papad",
+        "Curd",
+        "Ice cream",
+        "Sweet paan",
+        "Water"
+      ],
+      "slots": [
+        {
+          "id": "slot-1",
+          "label": "Any 2 sweets",
+          "count": 2,
+          "itemIds": [
+            "laddu",
+            "mohan-laddu",
+            "srikhand",
+            "basundi",
+            "jilebi",
+            "besan-chekki",
+            "cova-barfi",
+            "balushai",
+            "ravva-laddu",
+            "pheni-chekki",
+            "madata-kaja",
+            "kakinada-kaja",
+            "charoti",
+            "mandige",
+            "jhangri",
+            "mysorepak",
+            "bobbatlu",
+            "kadubu-karanja",
+            "annaras",
+            "rasgulla",
+            "gulab-jamun",
+            "kala-jamun",
+            "malai-rools",
+            "malai-sandwich",
+            "kaju-katli",
+            "pista-katli",
+            "kurbanika-meeta",
+            "kalakan",
+            "masti-samosa",
+            "anguru-dana",
+            "phene-burfi",
+            "agra-peta",
+            "badam-burfi",
+            "chocolate-cake",
+            "son-papudi",
+            "coconut-buri",
+            "badam-pista-cake",
+            "chandrakala",
+            "milk-mysorepak",
+            "ravva-kesari",
+            "pineapple-kesari",
+            "carrot-halwa",
+            "juckfruit-halwa",
+            "kaddu-ka-halwa",
+            "bombay-halwa",
+            "appi-payasam",
+            "haya-griva",
+            "laxmi-payasam",
+            "samiya-payasam",
+            "kadduka-kheer",
+            "pala-payasam"
+          ]
+        },
+        {
+          "id": "slot-2",
+          "label": "Any 2 hot snacks",
+          "count": 2,
+          "itemIds": [
+            "samosa",
+            "babycorn-65",
+            "veg-65",
+            "goby-65",
+            "alu-65",
+            "manchoria",
+            "navarang-chuduva",
+            "khara-bundi",
+            "kabage-pakoda",
+            "palak-pokada",
+            "alu-karam",
+            "arati-bajji",
+            "cut-mirchi",
+            "jaipur-bendi",
+            "brinjal-bajji",
+            "mirchi-bajji",
+            "sev",
+            "ghati",
+            "murukulu",
+            "alu-bonda",
+            "mysore-bajji",
+            "alu-bajji",
+            "onion-pakoda",
+            "pan-bajji",
+            "paneer-pakoda",
+            "chips"
+          ]
+        },
+        {
+          "id": "slot-3",
+          "label": "Vegetable fry",
+          "count": 1,
+          "itemIds": [
+            "alu-fry",
+            "bendi-fry",
+            "donda-fry",
+            "kanda-fry",
+            "chama-fry"
+          ]
+        },
+        {
+          "id": "slot-4",
+          "label": "Flavoured rice",
+          "count": 1,
+          "itemIds": [
+            "veg-palav",
+            "green-peas-palav",
+            "shahe-mutter-palav",
+            "dumka-biryani",
+            "lehar-biryani",
+            "jeera-rice",
+            "lemon-rice",
+            "tamarind-rice",
+            "curd-rice",
+            "vangi-bath",
+            "bisi-bela-bath",
+            "pongal-khichdi"
+          ]
+        },
+        {
+          "id": "slot-5",
+          "label": "Puri / Roti / Rumali roti",
+          "count": 1,
+          "itemIds": [
+            "puri",
+            "roti",
+            "rumali-roti",
+            "butter-nan",
+            "chapathi"
+          ]
+        },
+        {
+          "id": "slot-6",
+          "label": "Paneer / Chole masala",
+          "count": 1,
+          "itemIds": [
+            "paneer-butter-masala",
+            "palak-paneer",
+            "paneer-tikka",
+            "chole-with-paneer",
+            "shahi-paneer"
+          ]
+        },
+        {
+          "id": "slot-7",
+          "label": "Vegetable biryani / Palav",
+          "count": 1,
+          "itemIds": [
+            "dumka-biryani",
+            "veg-palav",
+            "shahe-mutter-palav",
+            "lehar-biryani"
+          ]
+        },
+        {
+          "id": "slot-8",
+          "label": "Raita",
+          "count": 1,
+          "itemIds": [
+            "onion-raitha",
+            "kheera-onion-raitha",
+            "tomato-raitha",
+            "boondi-raitha",
+            "dry-fruit-raitha"
+          ]
+        },
+        {
+          "id": "slot-9",
+          "label": "Masala curry",
+          "count": 1,
+          "itemIds": [
+            "paneer-butter-masala",
+            "palak-paneer",
+            "paneer-tikka",
+            "navaratan-kurma",
+            "vege-kurma",
+            "alu-mutter",
+            "alu-govi",
+            "dum-alu",
+            "alu-ginger",
+            "baigan-barta",
+            "bagara-baigan",
+            "veg-kofta",
+            "malai-kofta",
+            "shahi-paneer",
+            "mirchi-salan",
+            "capscum-masala",
+            "drum-stick-masala",
+            "stuffed-tamoto",
+            "chole-with-paneer",
+            "rajma",
+            "vegetable-taka-tak",
+            "alu-upma-curry",
+            "alu-karam-curry",
+            "gutti-vankaya",
+            "vankaya-karampetti",
+            "beens-curry",
+            "dosakaya-borada",
+            "banana-curry",
+            "cabage-curry",
+            "capscum-curry",
+            "donda-curry",
+            "alu-methi",
+            "mix-veg-curry",
+            "kanda-bachalli",
+            "availi",
+            "gowar-palli-curry",
+            "madars-kootu",
+            "bendi-kairas",
+            "pineapple-kairas",
+            "karela-kairas"
+          ]
+        },
+        {
+          "id": "slot-10",
+          "label": "Plain rice",
+          "count": 1,
+          "itemIds": [
+            "white-rice"
+          ]
+        },
+        {
+          "id": "slot-11",
+          "label": "Dal / Pappu",
+          "count": 1,
+          "itemIds": [
+            "tomato-dal",
+            "palak-dal",
+            "menthan-totakura-pappu",
+            "gongura-pappu",
+            "dosakaya-pappu",
+            "mango-dal",
+            "lemon-dal",
+            "birakaya-pappu",
+            "kootu"
+          ]
+        },
+        {
+          "id": "slot-12",
+          "label": "Sambar",
+          "count": 1,
+          "itemIds": [
+            "madres-samber",
+            "karnataka-samber"
+          ]
+        },
+        {
+          "id": "slot-13",
+          "label": "Rasam",
+          "count": 1,
+          "itemIds": [
+            "tamota-rasam",
+            "pepper-rasam",
+            "mysore-rasam",
+            "lemon-rasam",
+            "pachi-pulusu"
+          ]
+        },
+        {
+          "id": "slot-14",
+          "label": "Any 2 pickles",
+          "count": 2,
+          "itemIds": [
+            "dosakaya-pickle",
+            "gongura-pickle",
+            "tamato-pickle",
+            "chintakaya-chatni",
+            "gobi-pickle",
+            "vegetable-pickle",
+            "mango-pickle"
+          ]
+        },
+        {
+          "id": "slot-15",
+          "label": "Roti pachadi",
+          "count": 1,
+          "itemIds": [
+            "dosakaya-mukkala-pachadi",
+            "birakaya-chatni",
+            "kachha-tamato-chatni",
+            "coconut-chatni",
+            "allam-chatni",
+            "til-chatni",
+            "mixed-dal-chatni",
+            "katta-meta-chatni",
+            "pudina-chatni",
+            "tiffin-chatni"
+          ]
+        },
+        {
+          "id": "slot-16",
+          "label": "Ice cream",
+          "count": 1,
+          "itemIds": [
+            "vanilla-pista-ice-cream",
+            "strawbury-ice-cream",
+            "butter-stoch-ice-cream",
+            "kasata",
+            "kesar-ice-cream",
+            "tutti-frutiy"
+          ]
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "sweets",
+      "name": "Sweets & Payasam",
+      "description": "Traditional sweets, rich halwas, payasams and celebratory kheers",
+      "visible": true,
+      "items": [
+        {
+          "id": "laddu",
+          "name": "Laddu",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-laddu.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "mohan-laddu",
+          "name": "Mohan Laddu",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "srikhand",
+          "name": "Srikhand",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-srikhanda.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "basundi",
+          "name": "Basundi",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-basundi.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "jilebi",
+          "name": "Jilebi",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-jilebi.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "besan-chekki",
+          "name": "Besan Chekki",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "cova-barfi",
+          "name": "Cova Barfi",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "balushai",
+          "name": "Balushai",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-balushai.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "ravva-laddu",
+          "name": "Ravva Laddu",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "pheni-chekki",
+          "name": "Pheni Chekki",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "madata-kaja",
+          "name": "Madata Kaja",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-kakinada-kaja.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "kakinada-kaja",
+          "name": "Kakinada Kaja",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-kakinada-kaja.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "charoti",
+          "name": "Charoti",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "mandige",
+          "name": "Mandige",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "jhangri",
+          "name": "Jhangri",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-jangri.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "mysorepak",
+          "name": "Mysorepak",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-mysore-pak.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "bobbatlu",
+          "name": "Bobbatlu",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-bobbatlu.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "kadubu-karanja",
+          "name": "Kadubu (Karanja)",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "annaras",
+          "name": "Annaras",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "rasgulla",
+          "name": "Rasgulla",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-rasgulla.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "gulab-jamun",
+          "name": "Gulab Jamun",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-gulab-jamun.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "kala-jamun",
+          "name": "Kala Jamun",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-gulab-jamun.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "malai-rools",
+          "name": "Malai Rools",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "malai-sandwich",
+          "name": "Malai Sandwich",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "kaju-katli",
+          "name": "Kaju Katli",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-kaju-katli.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "pista-katli",
+          "name": "Pista Katli",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "kurbanika-meeta",
+          "name": "Kurbanika Meeta",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "kalakan",
+          "name": "Kalakan",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-kalakand.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "masti-samosa",
+          "name": "Masti Samosa",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "anguru-dana",
+          "name": "Anguru Dana",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "phene-burfi",
+          "name": "Phene Burfi",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "agra-peta",
+          "name": "Agra Peta",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-agra-petha.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "badam-burfi",
+          "name": "Badam Burfi",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "chocolate-cake",
+          "name": "Chocolate Cake",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-chocolate-cake.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "son-papudi",
+          "name": "Son Papudi",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-son-papdi.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "coconut-buri",
+          "name": "Coconut Buri",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "badam-pista-cake",
+          "name": "Badam Pista Cake",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "chandrakala",
+          "name": "Chandrakala",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-chandrakala.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "milk-mysorepak",
+          "name": "Milk Mysorepak",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "ravva-kesari",
+          "name": "Ravva Kesari",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-rava-kesari.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "pineapple-kesari",
+          "name": "Pineapple Kesari",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "carrot-halwa",
+          "name": "Carrot Halwa",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-carrot-halwa.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "juckfruit-halwa",
+          "name": "Juckfruit Halwa",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "kaddu-ka-halwa",
+          "name": "Kaddu Ka Halwa",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "bombay-halwa",
+          "name": "Bombay Halwa",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-bombay-halwa.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "appi-payasam",
+          "name": "Appi Payasam",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "haya-griva",
+          "name": "Haya Griva",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "laxmi-payasam",
+          "name": "Laxmi Payasam",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "samiya-payasam",
+          "name": "Samiya Payasam",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-semiya-payasam.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "kadduka-kheer",
+          "name": "Kadduka Kheer",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "pala-payasam",
+          "name": "Pala Payasam",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-pala-payasam.jpg",
+          "illustrative": true
+        }
+      ]
+    },
+    {
+      "id": "hot-snacks",
+      "name": "Hot & Khara",
+      "description": "Crisp hot snacks, pakodas, savouries and bajjis",
+      "visible": true,
+      "items": [
+        {
+          "id": "samosa",
+          "name": "Samosa",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "samosa.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "babycorn-65",
+          "name": "Babycorn 65",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "veg-65",
+          "name": "Veg 65",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "goby-65",
+          "name": "Goby 65",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-gobi-65.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "alu-65",
+          "name": "Alu 65",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "manchoria",
+          "name": "Manchoria",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "navarang-chuduva",
+          "name": "Navarang Chuduva",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "khara-bundi",
+          "name": "Khara Bundi",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "kabage-pakoda",
+          "name": "Kabage Pakoda",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "palak-pokada",
+          "name": "Palak Pokada",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-palak-pakoda.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "alu-karam",
+          "name": "Alu Karam",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "arati-bajji",
+          "name": "Arati Bajji",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "cut-mirchi",
+          "name": "Cut Mirchi",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "jaipur-bendi",
+          "name": "Jaipur Bendi",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "brinjal-bajji",
+          "name": "Brinjal Bajji",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "mirchi-bajji",
+          "name": "Mirchi Bajji",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-mirchi-bajji.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "sev",
+          "name": "Sev",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-sev.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "ghati",
+          "name": "Ghati",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "murukulu",
+          "name": "Murukulu",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-murukulu.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "alu-bonda",
+          "name": "Alu Bonda",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "mysore-bajji",
+          "name": "Mysore Bajji",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "alu-bajji",
+          "name": "Alu Bajji",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "onion-pakoda",
+          "name": "Onion Pakoda",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "pan-bajji",
+          "name": "Pan Bajji",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "paneer-pakoda",
+          "name": "Paneer Pakoda",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "chips",
+          "name": "Chips",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-chips.jpg",
+          "illustrative": true
+        }
+      ]
+    },
+    {
+      "id": "fry-curries",
+      "name": "Fry Curries",
+      "description": "Traditional vegetable fry dishes",
+      "visible": true,
+      "items": [
+        {
+          "id": "alu-fry",
+          "name": "Alu Fry",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "bendi-fry",
+          "name": "Bendi Fry",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-bhindi-fry.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "donda-fry",
+          "name": "Donda Fry",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "kanda-fry",
+          "name": "Kanda Fry",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "chama-fry",
+          "name": "Chama Fry",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        }
+      ]
+    },
+    {
+      "id": "north-curries",
+      "name": "North Indian Curries",
+      "description": "Rich North Indian gravies and curries",
+      "visible": true,
+      "items": [
+        {
+          "id": "paneer-butter-masala",
+          "name": "Paneer Butter Masala",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "palak-paneer",
+          "name": "Palak Paneer",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-palak-paneer.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "paneer-tikka",
+          "name": "Paneer Tikka",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-paneer-tikka.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "navaratan-kurma",
+          "name": "Navaratan Kurma",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "vege-kurma",
+          "name": "Vege Kurma",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "alu-mutter",
+          "name": "Alu Mutter",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-aloo-mutter.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "alu-govi",
+          "name": "Alu Govi",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-aloo-gobi.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "dum-alu",
+          "name": "Dum Alu",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-dum-aloo.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "alu-ginger",
+          "name": "Alu Ginger",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "baigan-barta",
+          "name": "Baigan Barta",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "bagara-baigan",
+          "name": "Bagara Baigan",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-bagara-baingan.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "veg-kofta",
+          "name": "Veg Kofta",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "malai-kofta",
+          "name": "Malai Kofta",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "shahi-paneer",
+          "name": "Shahi Paneer",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-shahi-paneer.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "mirchi-salan",
+          "name": "Mirchi Salan",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-mirchi-salan.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "capscum-masala",
+          "name": "Capscum Masala",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "drum-stick-masala",
+          "name": "Drum Stick Masala",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "stuffed-tamoto",
+          "name": "Stuffed Tamoto",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "chole-with-paneer",
+          "name": "Chole With Paneer",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "rajma",
+          "name": "Rajma",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-rajma.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "vegetable-taka-tak",
+          "name": "Vegetable Taka Tak",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        }
+      ]
+    },
+    {
+      "id": "south-curries",
+      "name": "South Indian Curries",
+      "description": "Authentic South Indian & Andhra special curries",
+      "visible": true,
+      "items": [
+        {
+          "id": "alu-upma-curry",
+          "name": "Alu Upma Curry",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "alu-karam-curry",
+          "name": "Alu Karam Curry",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "gutti-vankaya",
+          "name": "Gutti Vankaya",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "vankaya-karampetti",
+          "name": "Vankaya Karampetti",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "beens-curry",
+          "name": "Beens Curry",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "dosakaya-borada",
+          "name": "Dosakaya Borada",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "banana-curry",
+          "name": "Banana Curry",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "cabage-curry",
+          "name": "Cabage Curry",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "capscum-curry",
+          "name": "Capscum Curry",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "donda-curry",
+          "name": "Donda Curry",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "alu-methi",
+          "name": "Alu Methi",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "mix-veg-curry",
+          "name": "Mix Veg Curry",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "kanda-bachalli",
+          "name": "Kanda Bachalli",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "availi",
+          "name": "Availi",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-avial.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "gowar-palli-curry",
+          "name": "Gowar Palli Curry",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "madars-kootu",
+          "name": "Madars Kootu",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-madras-kootu.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "bendi-kairas",
+          "name": "Bendi Kairas",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "pineapple-kairas",
+          "name": "Pineapple Kairas",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "karela-kairas",
+          "name": "Karela Kairas",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        }
+      ]
+    },
+    {
+      "id": "dal-sambar-rasam",
+      "name": "Dal, Sambar & Rasam",
+      "description": "Pappu, authentic sambars and piping hot rasams",
+      "visible": true,
+      "items": [
+        {
+          "id": "tomato-dal",
+          "name": "Tomato Dal",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "palak-dal",
+          "name": "Palak Dal",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "menthan-totakura-pappu",
+          "name": "Menthan Totakura Pappu",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "gongura-pappu",
+          "name": "Gongura Pappu",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "dosakaya-pappu",
+          "name": "Dosakaya Pappu",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "mango-dal",
+          "name": "Mango Dal",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "lemon-dal",
+          "name": "Lemon Dal",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "birakaya-pappu",
+          "name": "Birakaya Pappu",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "kootu",
+          "name": "Kootu",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-kootu.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "madres-samber",
+          "name": "Madres Samber",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-madras-sambar.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "karnataka-samber",
+          "name": "Karnataka Samber",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-karnataka-sambar.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "majjiga-pulusu",
+          "name": "Majjiga Pulusu",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "tamota-rasam",
+          "name": "Tamota Rasam",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "pepper-rasam",
+          "name": "Pepper Rasam",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "mysore-rasam",
+          "name": "Mysore Rasam",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "lemon-rasam",
+          "name": "Lemon Rasam",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "pachi-pulusu",
+          "name": "Pachi Pulusu",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        }
+      ]
+    },
+    {
+      "id": "pickles",
+      "name": "Pickles",
+      "description": "Fresh Andhra pickles, chutneys and aromatic podis",
+      "visible": true,
+      "items": [
+        {
+          "id": "dosakaya-pickle",
+          "name": "Dosakaya Pickle",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "gongura-pickle",
+          "name": "Gongura Pickle",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "tamato-pickle",
+          "name": "Tamato Pickle",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "chintakaya-chatni",
+          "name": "Chintakaya Chatni",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "coconut-chatni",
+          "name": "Coconut Chatni",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-coconut-chutney.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "kachha-tamato-chatni",
+          "name": "Kachha Tamato Chatni",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "birakaya-chatni",
+          "name": "Birakaya Chatni",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "allam-chatni",
+          "name": "Allam Chatni",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "til-chatni",
+          "name": "Til Chatni",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "mixed-dal-chatni",
+          "name": "Mixed Dal Chatni",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "gobi-pickle",
+          "name": "Gobi Pickle",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "vegetable-pickle",
+          "name": "Vegetable Pickle",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "mango-pickle",
+          "name": "Mango Pickle",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "dosakaya-mukkala-pachadi",
+          "name": "Dosakaya Mukkala Pachadi",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "karivepak-podi",
+          "name": "Karivepak Podi",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "kandi-podi",
+          "name": "Kandi Podi",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "karam-podi",
+          "name": "Karam Podi",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "chatni-podi",
+          "name": "Chatni Podi",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-chutney-powder.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "mentham-podi",
+          "name": "Mentham Podi",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "katta-meta-chatni",
+          "name": "Katta Meta Chatni",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "pudina-chatni",
+          "name": "Pudina Chatni",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "tiffin-chatni",
+          "name": "Tiffin Chatni",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-tiffin-chutney.jpg",
+          "illustrative": true
+        }
+      ]
+    },
+    {
+      "id": "rice",
+      "name": "Rice, Palav & Biryani",
+      "description": "Celebration biryanis, palavs and flavoured rices",
+      "visible": true,
+      "items": [
+        {
+          "id": "veg-palav",
+          "name": "Veg Palav",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "green-peas-palav",
+          "name": "Green Peas Palav",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "shahe-mutter-palav",
+          "name": "Shahe Mutter Palav",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "dumka-biryani",
+          "name": "Dumka Biryani",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "lehar-biryani",
+          "name": "Lehar Biryani",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "jeera-rice",
+          "name": "Jeera Rice",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-jeera-rice.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "lemon-rice",
+          "name": "Lemon Rice",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-lemon-rice.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "tamarind-rice",
+          "name": "Tamarind Rice",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-tamarind-rice.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "white-rice",
+          "name": "White Rice",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-white-rice.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "curd-rice",
+          "name": "Curd Rice",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-curd-rice.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "vangi-bath",
+          "name": "Vangi Bath",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "bisi-bela-bath",
+          "name": "Bisi Bela Bath",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-bisi-bele-bath.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "pongal-khichdi",
+          "name": "Pongal Khichdi",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-pongal-khichdi.jpg",
+          "illustrative": true
+        }
+      ]
+    },
+    {
+      "id": "soups",
+      "name": "Soups & Salads",
+      "description": "Comforting soups and garden salads",
+      "visible": true,
+      "items": [
+        {
+          "id": "tamoto-soup",
+          "name": "Tamoto Soup",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-tomato-soup.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "vegetable-soup",
+          "name": "Vegetable Soup",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "baby-corn-soup",
+          "name": "Baby Corn Soup",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "vegetable-salad",
+          "name": "Vegetable Salad",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "fruit-chat",
+          "name": "Fruit Chat",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-fresh-fruit-salad.jpg",
+          "illustrative": true
+        }
+      ]
+    },
+    {
+      "id": "chats",
+      "name": "Chat Items",
+      "description": "Freshly prepared evening chaats and live counter favourites",
+      "visible": true,
+      "items": [
+        {
+          "id": "cut-let",
+          "name": "Cut Let",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-cutlet.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "ragada",
+          "name": "Ragada",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "bale-puri",
+          "name": "Bale Puri",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-bhel-puri.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "pav-bajji",
+          "name": "Pav Bajji",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-pav-bhaji.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "vegtable-samosa",
+          "name": "Vegtable Samosa",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "kachori",
+          "name": "Kachori",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "pani-puri",
+          "name": "Pani Puri",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "pani-puri.jpg",
+          "illustrative": true
+        }
+      ]
+    },
+    {
+      "id": "breads",
+      "name": "Puri, Roti & Naan",
+      "description": "Tandoori breads, naans, rotis and fluffy puris",
+      "visible": true,
+      "items": [
+        {
+          "id": "puri",
+          "name": "Puri",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-puri.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "palak-puri",
+          "name": "Palak Puri",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "masala-puri",
+          "name": "Masala Puri",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "parotha",
+          "name": "Parotha",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-paratha.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "alu-parotha",
+          "name": "Alu Parotha",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-aloo-paratha.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "mooli-parotha",
+          "name": "Mooli Parotha",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "methi-parotha",
+          "name": "Methi Parotha",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-methi-paratha.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "vegtable-parotha",
+          "name": "Vegtable Parotha",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "roti",
+          "name": "Roti",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-roti.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "tanduri-roti",
+          "name": "Tanduri Roti",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "jawari-roti",
+          "name": "Jawari Roti",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "chapathi",
+          "name": "Chapathi",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-chapathi.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "butter-nan",
+          "name": "Butter Nan",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-butter-naan.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "peshaari-nan",
+          "name": "Peshaari Nan",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "kulcha",
+          "name": "Kulcha",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-kulcha.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "batoora",
+          "name": "Batoora",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-bhatura.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "rumali-roti",
+          "name": "Rumali Roti",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        }
+      ]
+    },
+    {
+      "id": "ice-creams",
+      "name": "Ice Creams & Drinks",
+      "description": "Dessert ice creams, fresh juices and cool drinks",
+      "visible": true,
+      "items": [
+        {
+          "id": "vanilla-pista-ice-cream",
+          "name": "Vanilla / Pista Ice Cream",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-vanilla-ice-cream.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "strawbury-ice-cream",
+          "name": "Strawbury Ice Cream",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-strawberry-ice-cream.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "butter-stoch-ice-cream",
+          "name": "Butter Stoch Ice Cream",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "kasata",
+          "name": "Kasata",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "kesar-ice-cream",
+          "name": "Kesar Ice Cream",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "tutti-frutiy",
+          "name": "Tutti Frutiy",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-tutti-frutti-ice-cream.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "all-types-of-cool-drinks",
+          "name": "All Types of Cool Drinks",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "all-types-of-fresh-fruit-juices",
+          "name": "All Types of Fresh Fruit Juices",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-fruit-juice.jpg",
+          "illustrative": true
+        }
+      ]
+    },
+    {
+      "id": "raitha",
+      "name": "Raitha",
+      "description": "Cooling seasoned yoghurt raithas",
+      "visible": true,
+      "items": [
+        {
+          "id": "onion-raitha",
+          "name": "Onion Raitha",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "kheera-onion-raitha",
+          "name": "Kheera Onion Raitha",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "tomato-raitha",
+          "name": "Tomato Raitha",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "boondi-raitha",
+          "name": "Boondi Raitha",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "dry-fruit-raitha",
+          "name": "Dry Fruit Raitha",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        }
+      ]
+    },
+    {
+      "id": "breakfast",
+      "name": "Break-Fast",
+      "description": "Hot breakfast specials, idlis, dosas and vadas",
+      "visible": true,
+      "items": [
+        {
+          "id": "idli",
+          "name": "Idli",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-idli.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "rawa-idli",
+          "name": "Rawa Idli",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-rava-idli.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "veg-idli",
+          "name": "Veg Idli",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "wada",
+          "name": "Wada",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-vada.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "vermicelli-upma",
+          "name": "Vermicelli Upma",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "tomato-bath",
+          "name": "Tomato Bath",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "dosa",
+          "name": "Dosa",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-dosa.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "masala-dosa",
+          "name": "Masala Dosa",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-masala-dosa.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "onion-dosa",
+          "name": "Onion Dosa",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "uttappa",
+          "name": "Uttappa",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-uttapam.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "pesaratu",
+          "name": "Pesaratu",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "dish-pesarattu.jpg",
+          "illustrative": true
+        },
+        {
+          "id": "pongal",
+          "name": "Pongal",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "rawa-pongal",
+          "name": "Rawa Pongal",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        },
+        {
+          "id": "pohe",
+          "name": "Pohe",
+          "description": "",
+          "price": null,
+          "unit": "guest",
+          "visible": true,
+          "image": "",
+          "illustrative": false
+        }
+      ]
+    }
+  ],
+  "schemaVersion": 1
+}
