@@ -76,7 +76,54 @@ export function buildRequest(c, selection, event) {
 }
 export function requestText(r) {
  const p=r.menu.package;
- return [`Namaste ${r.business}! I'd like a catering quote.`, '',`Name: ${r.customer.name}`,`Phone: ${r.customer.phone}`,`Date: ${r.event.date}`,`Guests: ${r.event.guests}`,`Occasion: ${r.event.occasion}`,`Service: ${r.event.service}`,`Venue / area: ${r.event.venue}`,'',`Package: ${p?.name||'Build my own menu'}`,p?`Keep: ${p.included.join(', ')}`:'',p?`Exclude: ${p.excluded.join(', ')||'None'}`:'',`${p?'Additional dishes / preferences':'Selected dishes'}: ${r.menu.dishes.map(i=>i.name).join(', ')||'None'}`,r.event.notes?`Notes / additions / dietary needs: ${r.event.notes}`:'','',r.pricing.estimatedTotal!==null?`Indicative estimate: ${money(r.pricing.estimatedTotal)}`:'Price: quote requested',r.pricing.note,'Please confirm availability, menu and final price. This is an enquiry, not a confirmed booking.'].filter(s=>s!==undefined).join('\n');
+ const lines=[
+  `*Namaste ${r.business}!* 🙏`,
+  `*New Catering Enquiry*`,
+  `━━━━━━━━━━━━━━━━━━━━`,
+  ``,
+  `📋 *EVENT DETAILS*`,
+  `• Name: ${r.customer.name}`,
+  `• Phone: ${r.customer.phone}`,
+  `• Date: ${r.event.date}`,
+  `• Guests: ${r.event.guests}`,
+  `• Occasion: ${r.event.occasion} (${r.event.service})`,
+  `• Venue / area: ${r.event.venue}`,
+  ``,
+  `🍽️ *MENU: ${p?.name||'Build my own menu'}*`
+ ];
+
+ if(p){
+  p.included.forEach(item=>lines.push(`• ${item}`));
+  if(p.excluded.length){
+   lines.push(``);
+   lines.push(`🚫 Exclude: ${p.excluded.join(', ')}`);
+  }
+ }
+
+ if(r.menu.dishes.length){
+  lines.push(``);
+  lines.push(`➕ *${p?'Additional dishes':'Selected dishes'}:*`);
+  r.menu.dishes.forEach(d=>lines.push(`• ${d.name}`));
+ }
+
+ if(r.event.notes){
+  lines.push(``);
+  lines.push(`📝 *Notes / dietary needs:*`);
+  lines.push(`${r.event.notes}`);
+ }
+
+ lines.push(``);
+ lines.push(`━━━━━━━━━━━━━━━━━━━━`);
+ if(r.pricing.estimatedTotal!==null){
+  lines.push(`💰 *Indicative estimate:* ${money(r.pricing.estimatedTotal)}`);
+ }else{
+  lines.push(`💰 *Price:* quote requested`);
+ }
+ lines.push(r.pricing.note);
+ lines.push(``);
+ lines.push(`_Please confirm availability, menu and final price. This is an enquiry, not a confirmed booking._`);
+
+ return lines.join('\n');
 }
 export function dishImage(item) { return photoURL(item.image)||'./input_photos/photo-pending.svg'; }
 export function photoCaption(item) { return !item.image?'Dish photo pending':item.illustrative?'Representative photo':'Caterer’s photo'; }
