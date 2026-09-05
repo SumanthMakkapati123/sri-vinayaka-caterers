@@ -1,0 +1,243 @@
+# Dish image status
+
+230 selectable dishes across 14 categories matching the WhatsApp menu sheets. 82 have matching representative photos; 148 show an explicit Photo pending image.
+
+Representative Creative Commons photos were sourced from Wikimedia Commons, downloaded and reviewed. The original source, creator, license and display-cropping disclosure are retained in catalog.json and the customer Photo credits dialog. All stock photos are clearly illustrative.
+
+The owner can upload additional matching photos from /admin/ → Photos, then map them via Dishes → Edit.
+
+## Matching photographs (82)
+
+- Laddu → dish-laddu.jpg
+- Srikhand → dish-srikhanda.jpg
+- Basundi → dish-basundi.jpg
+- Jilebi → dish-jilebi.jpg
+- Balushai → dish-balushai.jpg
+- Madata Kaja → dish-kakinada-kaja.jpg
+- Kakinada Kaja → dish-kakinada-kaja.jpg
+- Jhangri → dish-jangri.jpg
+- Mysorepak → dish-mysore-pak.jpg
+- Bobbatlu → dish-bobbatlu.jpg
+- Rasgulla → dish-rasgulla.jpg
+- Gulab Jamun → dish-gulab-jamun.jpg
+- Kala Jamun → dish-gulab-jamun.jpg
+- Kaju Katli → dish-kaju-katli.jpg
+- Kalakan → dish-kalakand.jpg
+- Agra Peta → dish-agra-petha.jpg
+- Chocolate Cake → dish-chocolate-cake.jpg
+- Son Papudi → dish-son-papdi.jpg
+- Chandrakala → dish-chandrakala.jpg
+- Ravva Kesari → dish-rava-kesari.jpg
+- Carrot Halwa → dish-carrot-halwa.jpg
+- Bombay Halwa → dish-bombay-halwa.jpg
+- Samiya Payasam → dish-semiya-payasam.jpg
+- Pala Payasam → dish-pala-payasam.jpg
+- Samosa → samosa.jpg
+- Goby 65 → dish-gobi-65.jpg
+- Palak Pokada → dish-palak-pakoda.jpg
+- Mirchi Bajji → dish-mirchi-bajji.jpg
+- Sev → dish-sev.jpg
+- Murukulu → dish-murukulu.jpg
+- Chips → dish-chips.jpg
+- Bendi Fry → dish-bhindi-fry.jpg
+- Palak Paneer → dish-palak-paneer.jpg
+- Paneer Tikka → dish-paneer-tikka.jpg
+- Alu Mutter → dish-aloo-mutter.jpg
+- Alu Govi → dish-aloo-gobi.jpg
+- Dum Alu → dish-dum-aloo.jpg
+- Bagara Baigan → dish-bagara-baingan.jpg
+- Shahi Paneer → dish-shahi-paneer.jpg
+- Mirchi Salan → dish-mirchi-salan.jpg
+- Rajma → dish-rajma.jpg
+- Availi → dish-avial.jpg
+- Madars Kootu → dish-madras-kootu.jpg
+- Kootu → dish-kootu.jpg
+- Madres Samber → dish-madras-sambar.jpg
+- Karnataka Samber → dish-karnataka-sambar.jpg
+- Coconut Chatni → dish-coconut-chutney.jpg
+- Chatni Podi → dish-chutney-powder.jpg
+- Tiffin Chatni → dish-tiffin-chutney.jpg
+- Jeera Rice → dish-jeera-rice.jpg
+- Lemon Rice → dish-lemon-rice.jpg
+- Tamarind Rice → dish-tamarind-rice.jpg
+- White Rice → dish-white-rice.jpg
+- Curd Rice → dish-curd-rice.jpg
+- Bisi Bela Bath → dish-bisi-bele-bath.jpg
+- Pongal Khichdi → dish-pongal-khichdi.jpg
+- Tamoto Soup → dish-tomato-soup.jpg
+- Fruit Chat → dish-fresh-fruit-salad.jpg
+- Cut Let → dish-cutlet.jpg
+- Bale Puri → dish-bhel-puri.jpg
+- Pav Bajji → dish-pav-bhaji.jpg
+- Pani Puri → pani-puri.jpg
+- Puri → dish-puri.jpg
+- Parotha → dish-paratha.jpg
+- Alu Parotha → dish-aloo-paratha.jpg
+- Methi Parotha → dish-methi-paratha.jpg
+- Roti → dish-roti.jpg
+- Chapathi → dish-chapathi.jpg
+- Butter Nan → dish-butter-naan.jpg
+- Kulcha → dish-kulcha.jpg
+- Batoora → dish-bhatura.jpg
+- Vanilla / Pista Ice Cream → dish-vanilla-ice-cream.jpg
+- Strawbury Ice Cream → dish-strawberry-ice-cream.jpg
+- Tutti Frutiy → dish-tutti-frutti-ice-cream.jpg
+- All Types of Fresh Fruit Juices → dish-fruit-juice.jpg
+- Idli → dish-idli.jpg
+- Rawa Idli → dish-rava-idli.jpg
+- Wada → dish-vada.jpg
+- Dosa → dish-dosa.jpg
+- Masala Dosa → dish-masala-dosa.jpg
+- Uttappa → dish-uttapam.jpg
+- Pesaratu → dish-pesarattu.jpg
+
+## Pending dishes (148)
+
+- Mohan Laddu
+- Besan Chekki
+- Cova Barfi
+- Ravva Laddu
+- Pheni Chekki
+- Charoti
+- Mandige
+- Kadubu (Karanja)
+- Annaras
+- Malai Rools
+- Malai Sandwich
+- Pista Katli
+- Kurbanika Meeta
+- Masti Samosa
+- Anguru Dana
+- Phene Burfi
+- Badam Burfi
+- Coconut Buri
+- Badam Pista Cake
+- Milk Mysorepak
+- Pineapple Kesari
+- Juckfruit Halwa
+- Kaddu Ka Halwa
+- Appi Payasam
+- Haya Griva
+- Laxmi Payasam
+- Kadduka Kheer
+- Babycorn 65
+- Veg 65
+- Alu 65
+- Manchoria
+- Navarang Chuduva
+- Khara Bundi
+- Kabage Pakoda
+- Alu Karam
+- Arati Bajji
+- Cut Mirchi
+- Jaipur Bendi
+- Brinjal Bajji
+- Ghati
+- Alu Bonda
+- Mysore Bajji
+- Alu Bajji
+- Onion Pakoda
+- Pan Bajji
+- Paneer Pakoda
+- Alu Fry
+- Donda Fry
+- Kanda Fry
+- Chama Fry
+- Paneer Butter Masala
+- Navaratan Kurma
+- Vege Kurma
+- Alu Ginger
+- Baigan Barta
+- Veg Kofta
+- Malai Kofta
+- Capscum Masala
+- Drum Stick Masala
+- Stuffed Tamoto
+- Chole With Paneer
+- Vegetable Taka Tak
+- Alu Upma Curry
+- Alu Karam Curry
+- Gutti Vankaya
+- Vankaya Karampetti
+- Beens Curry
+- Dosakaya Borada
+- Banana Curry
+- Cabage Curry
+- Capscum Curry
+- Donda Curry
+- Alu Methi
+- Mix Veg Curry
+- Kanda Bachalli
+- Gowar Palli Curry
+- Bendi Kairas
+- Pineapple Kairas
+- Karela Kairas
+- Tomato Dal
+- Palak Dal
+- Menthan Totakura Pappu
+- Gongura Pappu
+- Dosakaya Pappu
+- Mango Dal
+- Lemon Dal
+- Birakaya Pappu
+- Majjiga Pulusu
+- Tamota Rasam
+- Pepper Rasam
+- Mysore Rasam
+- Lemon Rasam
+- Pachi Pulusu
+- Dosakaya Pickle
+- Gongura Pickle
+- Tamato Pickle
+- Chintakaya Chatni
+- Kachha Tamato Chatni
+- Birakaya Chatni
+- Allam Chatni
+- Til Chatni
+- Mixed Dal Chatni
+- Gobi Pickle
+- Vegetable Pickle
+- Mango Pickle
+- Dosakaya Mukkala Pachadi
+- Karivepak Podi
+- Kandi Podi
+- Karam Podi
+- Mentham Podi
+- Katta Meta Chatni
+- Pudina Chatni
+- Veg Palav
+- Green Peas Palav
+- Shahe Mutter Palav
+- Dumka Biryani
+- Lehar Biryani
+- Vangi Bath
+- Vegetable Soup
+- Baby Corn Soup
+- Vegetable Salad
+- Ragada
+- Vegtable Samosa
+- Kachori
+- Palak Puri
+- Masala Puri
+- Mooli Parotha
+- Vegtable Parotha
+- Tanduri Roti
+- Jawari Roti
+- Peshaari Nan
+- Rumali Roti
+- Butter Stoch Ice Cream
+- Kasata
+- Kesar Ice Cream
+- All Types of Cool Drinks
+- Onion Raitha
+- Kheera Onion Raitha
+- Tomato Raitha
+- Boondi Raitha
+- Dry Fruit Raitha
+- Veg Idli
+- Vermicelli Upma
+- Tomato Bath
+- Onion Dosa
+- Pongal
+- Rawa Pongal
+- Pohe

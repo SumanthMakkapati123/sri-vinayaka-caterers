@@ -1,0 +1,10 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "sri-vinayaka-caterers",
+  "main": "server/worker.js",
+  "compatibility_date": "2026-09-01",
+  "workers_dev": true,
+  "assets": { "directory": "./dist", "binding": "ASSETS", "run_worker_first": ["/api/*", "/media/*"], "not_found_handling": "404-page" },
+  "d1_databases": [{ "binding": "DB", "database_name": "sri-vinayaka-catalog", "database_id": "00000000-0000-0000-0000-000000000000", "migrations_dir": "migrations" }],
+  "observability": { "enabled": false }
+}

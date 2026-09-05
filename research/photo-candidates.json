@@ -1,0 +1,2690 @@
+[
+  {
+    "query": "Gulab jamun",
+    "candidates": [
+      {
+        "title": "File:KalaJamoon.JPG",
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/KalaJamoon.JPG/500px-KalaJamoon.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 480,
+        "thumbheight": 318,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/KalaJamoon.JPG/960px-KalaJamoon.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/KalaJamoon.JPG/500px-KalaJamoon.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 480,
+          "height": 318,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/KalaJamoon.JPG/960px-KalaJamoon.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/KalaJamoon.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:KalaJamoon.JPG",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=40894046",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2015-06-11 04:15:48",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "KalaJamoon",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Gulab jamun|Self-published work|Images from Wiki Loves Food 2015|Uploaded via Campaign:wlf",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "quality",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Kala Jamun",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2014-10-28 23:31:47",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Prakrutim&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Prakrutim (page does not exist)\">Prakrutim</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      {
+        "title": "File:Gulab jamun (Gibraltar, November 2020).jpg",
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Gulab_jamun_%28Gibraltar%2C_November_2020%29.jpg/500px-Gulab_jamun_%28Gibraltar%2C_November_2020%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 480,
+        "thumbheight": 270,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Gulab_jamun_%28Gibraltar%2C_November_2020%29.jpg/960px-Gulab_jamun_%28Gibraltar%2C_November_2020%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Gulab_jamun_%28Gibraltar%2C_November_2020%29.jpg/500px-Gulab_jamun_%28Gibraltar%2C_November_2020%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 480,
+          "height": 270,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Gulab_jamun_%28Gibraltar%2C_November_2020%29.jpg/960px-Gulab_jamun_%28Gibraltar%2C_November_2020%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Gulab_jamun_%28Gibraltar%2C_November_2020%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gulab_jamun_(Gibraltar,_November_2020).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=96451653",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2020-11-21 15:45:18",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Gulab jamun (Gibraltar, November 2020)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Gulab jamun|Self-published work",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Gulab jamun (Gibraltar, November 2020)",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2020-11-21 15:58:43",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Cabeza2000\" title=\"User:Cabeza2000\">Cabeza2000</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      {
+        "title": "File:Two Gulab Jamun in a plate 01.jpg",
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Two_Gulab_Jamun_in_a_plate_01.jpg/500px-Two_Gulab_Jamun_in_a_plate_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 480,
+        "thumbheight": 360,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Two_Gulab_Jamun_in_a_plate_01.jpg/960px-Two_Gulab_Jamun_in_a_plate_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Two_Gulab_Jamun_in_a_plate_01.jpg/500px-Two_Gulab_Jamun_in_a_plate_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 480,
+          "height": 360,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Two_Gulab_Jamun_in_a_plate_01.jpg/960px-Two_Gulab_Jamun_in_a_plate_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Two_Gulab_Jamun_in_a_plate_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Two_Gulab_Jamun_in_a_plate_01.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=113889023",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2022-01-01 15:47:07",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Two Gulab Jamun in a plate 01",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Gulab jamun|Images by User:Suyash.dwivedi|Self-published work|Uploaded with Mobile/Android|Files with coordinates missing SDC location of creation|India photographs taken on 2021-12-25|Cuisine of Bhopal",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "quality",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "23.235077",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "77.401817",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Two gulab jamun in a plate",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "25 December 2021 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Suyash.dwivedi\" title=\"User:Suyash.dwivedi\">Suyash.dwivedi</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "query": "Kesari bath",
+    "candidates": [
+      {
+        "title": "File:Kesari bhath.jpg",
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Kesari_bhath.jpg/500px-Kesari_bhath.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 480,
+        "thumbheight": 309,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Kesari_bhath.jpg/960px-Kesari_bhath.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Kesari_bhath.jpg/500px-Kesari_bhath.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 480,
+          "height": 309,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Kesari_bhath.jpg/960px-Kesari_bhath.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Kesari_bhath.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kesari_bhath.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=39828192",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2015-04-28 05:18:56",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Kesari bhath",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Kesari|Self-published work|Images by Anton|Images from Wiki Loves Food 2015|Files with coordinates missing SDC location of creation",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "7.719278",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "81.709333",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Kesari with cashew nut. Food color gives green to kesari. Commonly, it has orange or yellow color. Captured in Sri Lanka.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2015-04-24 13:57:44",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:AntanO\" title=\"User:AntanO\">AntanO</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      {
+        "title": "File:Kesari Bath (5832083727).jpg",
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Kesari_Bath_%285832083727%29.jpg/500px-Kesari_Bath_%285832083727%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 480,
+        "thumbheight": 302,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Kesari_Bath_%285832083727%29.jpg/960px-Kesari_Bath_%285832083727%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Kesari_Bath_%285832083727%29.jpg/500px-Kesari_Bath_%285832083727%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 480,
+          "height": 302,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Kesari_Bath_%285832083727%29.jpg/960px-Kesari_Bath_%285832083727%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kesari_Bath_%285832083727%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kesari_Bath_(5832083727).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=40834067",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2019-10-14 12:33:17",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Kesari Bath (5832083727)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Kesari|Flickr images reviewed by FlickreviewR|Images from Wiki Loves Food 2015|Files with coordinates missing SDC location of creation|Food on banana leaves in India",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "12.662447",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "77.189941",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "{{<a href=\"https://en.wikipedia.org/wiki/Kesari_bhath\" class=\"extiw\" title=\"en:Kesari bhath\">Kesari bhath</a> at the Kaadu Mane hotel near Channapatna, Karnataka, India}}",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2011-06-04 09:27",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/mynameisharsha/5832083727/\">Kesari Bath</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/27526538@N07\">Harsha K R</a> from Bangalore, India",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      {
+        "title": "File:Karnataka Sweet Kesari Bath with Sev.png",
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Karnataka_Sweet_Kesari_Bath_with_Sev.png/500px-Karnataka_Sweet_Kesari_Bath_with_Sev.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 480,
+        "thumbheight": 250,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Karnataka_Sweet_Kesari_Bath_with_Sev.png/960px-Karnataka_Sweet_Kesari_Bath_with_Sev.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Karnataka_Sweet_Kesari_Bath_with_Sev.png/500px-Karnataka_Sweet_Kesari_Bath_with_Sev.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 480,
+          "height": 250,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Karnataka_Sweet_Kesari_Bath_with_Sev.png/960px-Karnataka_Sweet_Kesari_Bath_with_Sev.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Karnataka_Sweet_Kesari_Bath_with_Sev.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Karnataka_Sweet_Kesari_Bath_with_Sev.png",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=102633089",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2021-04-21 07:08:35",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Karnataka Sweet Kesari Bath with Sev",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Kesari|Self-published work|Images from Wiki Loves Food 2021 in India|Files from competitions organized by West Bengal Wikimedians User Group|Images from Wiki Loves Food 2021|Sev (food)|Uploaded via Campaign:wlf-in|Images from Wiki Loves Food missing SDC depicts|Images from Wiki Loves Food missing SDC location of creation|Images from Wiki Loves Food with different SDC participant in|Images from WLF 2021 India with poor quality",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Karnataka Special Sweet Kesari Bath, Semolina halwa or sheera with saffron milk or turmeric milk used for the Kesari -Orangish yellow color. Semolina is roasted in ghee, cooked by adding water, ghee, sugar, cardamom powder, cashew and raisins. \nTraditionally Kesari bath is preferred along with Kharabath or Upma . Together called Chow-Chow bath. I prefer real Chow-Chow or Sev Namkeen Mixture.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2021-03-30",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Manjeshwari_poet_mysore\" title=\"User:Manjeshwari poet mysore\">Manjeshwari poet mysore</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "query": "Badam burfi",
+    "candidates": []
+  },
+  {
+    "query": "rice payasam",
+    "candidates": [
+      {
+        "title": "File:Rice pudding also called payasam or kheer.jpg",
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Rice_pudding_also_called_payasam_or_kheer.jpg/500px-Rice_pudding_also_called_payasam_or_kheer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 480,
+        "thumbheight": 387,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Rice_pudding_also_called_payasam_or_kheer.jpg/960px-Rice_pudding_also_called_payasam_or_kheer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Rice_pudding_also_called_payasam_or_kheer.jpg/500px-Rice_pudding_also_called_payasam_or_kheer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 480,
+          "height": 387,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Rice_pudding_also_called_payasam_or_kheer.jpg/960px-Rice_pudding_also_called_payasam_or_kheer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Rice_pudding_also_called_payasam_or_kheer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Rice_pudding_also_called_payasam_or_kheer.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=40956238",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2015-06-14 09:08:03",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Rice pudding also called payasam or kheer",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Vishu|Semiya Payasam|Self-published work|Images from Wiki Loves Food 2015|Uploaded via Campaign:wlf",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Rice pudding also called payasam in Kerala is made of rice,sugar and milk.Dry fruits are used for garnishing.It is an important sweet dish during festivals like Onam and Vishu.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2015-06-14",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Vnair23&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Vnair23 (page does not exist)\">Vnair23</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      {
+        "title": "File:Mappila Payasam Fest.jpg",
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Mappila_Payasam_Fest.jpg/500px-Mappila_Payasam_Fest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 480,
+        "thumbheight": 360,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Mappila_Payasam_Fest.jpg/960px-Mappila_Payasam_Fest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Mappila_Payasam_Fest.jpg/500px-Mappila_Payasam_Fest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 480,
+          "height": 360,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Mappila_Payasam_Fest.jpg/960px-Mappila_Payasam_Fest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Mappila_Payasam_Fest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Mappila_Payasam_Fest.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=52144160",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2016-10-08 19:51:24",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Mappila Payasam Fest",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Payasam|People of Kozhikode|Malayalam screenwriters",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Kozhikode-based Salafi preacher recently described non-Islamic festivities like Onam and Christman as \"haram\", asking Muslims to refrain from participating in these celebrations.\n<p>In response, a young Muslim activist in Kerala held his very own 'Payasam' fest to celebrate the harvest festival of Onam. Not only that, some 200 people came forward to attend his fest and enjoy the sweetened rice dessert.\n</p>\n\"My smiling Onam wishes. I declare openly that if my religion would vanish by celebrating festivals, let it go,\" read writer-cum-activist <a href=\"https://en.wikipedia.org/wiki/Fais_Umer\" class=\"extiw\" title=\"w:Fais Umer\">Fais Umer</a>'s banner inviting people.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "Sunday, September 11, 2016 - 10:52",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"http://www.thenewsminute.com/article/muslim-youngster-holds-payasam-fest-protest-against-imam-who-declared-onam-taboo-49696\">http://www.thenewsminute.com/article/muslim-youngster-holds-payasam-fest-protest-against-imam-who-declared-onam-taboo-49696</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "TNM Staff",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      {
+        "title": "File:Kauni Arisi payasam or Black Rice recipes.jpg",
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Kauni_Arisi_payasam_or_Black_Rice_recipes.jpg/500px-Kauni_Arisi_payasam_or_Black_Rice_recipes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 480,
+        "thumbheight": 360,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Kauni_Arisi_payasam_or_Black_Rice_recipes.jpg/960px-Kauni_Arisi_payasam_or_Black_Rice_recipes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Kauni_Arisi_payasam_or_Black_Rice_recipes.jpg/500px-Kauni_Arisi_payasam_or_Black_Rice_recipes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 480,
+          "height": 360,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Kauni_Arisi_payasam_or_Black_Rice_recipes.jpg/960px-Kauni_Arisi_payasam_or_Black_Rice_recipes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Kauni_Arisi_payasam_or_Black_Rice_recipes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kauni_Arisi_payasam_or_Black_Rice_recipes.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=103576741",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2021-04-13 16:55:14",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Kauni Arisi payasam or Black Rice recipes",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Payasam|Black rice|Chettinad cuisine|Self-published work|Cuisine of South India|Files with coordinates missing SDC location of creation|Images from Wiki Loves Food 2021 in India|Images from WLF 2021 India under review by Montage tool|Files from competitions organized by West Bengal Wikimedians User Group|Images from Wiki Loves Food 2021|Taken with Oppo F15|Uploaded via Campaign:wlf-in|Images from Wiki Loves Food missing SDC depicts|Images from Wiki Loves Food missing SDC location of creation|Images from Wiki Loves Food with different SDC participant in",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "8.734946",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "78.119080",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "This payasam or kheer is specially made in certain region of Tamil Nadu. This recipe is made with kauni arisi or known as black rice. Recipes made with this rice is mostly made in chettinad regions (places surrounding Karaikudi) and people who belongs there. This rice has many benefits when consumed which also includes weight loss. Recipes such as sweet porridge, Puttu, Dosa and kheer can be made. Here, we used black rice, jaggery and grated coconut. ( cardamom powder is added for extra flavor)",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2021-04-11 12:56:24",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Gems_Keerthiga&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Gems Keerthiga (page does not exist)\">Gems Keerthiga</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "query": "Baby corn 65",
+    "candidates": [
+      {
+        "title": "File:Manns' superior seeds (16202692270).jpg",
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Manns%27_superior_seeds_%2816202692270%29.jpg/500px-Manns%27_superior_seeds_%2816202692270%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 480,
+        "thumbheight": 671,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Manns%27_superior_seeds_%2816202692270%29.jpg/960px-Manns%27_superior_seeds_%2816202692270%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Manns%27_superior_seeds_%2816202692270%29.jpg/500px-Manns%27_superior_seeds_%2816202692270%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 480,
+          "height": 671,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Manns%27_superior_seeds_%2816202692270%29.jpg/960px-Manns%27_superior_seeds_%2816202692270%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Manns%27_superior_seeds_%2816202692270%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Manns%27_superior_seeds_(16202692270).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=42628004",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2015-08-25 03:18:09",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Manns' superior seeds (16202692270)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Photos uploaded from Flickr by Fæ using a script|Flickr images reviewed by FlickreviewR|Files from the Biodiversity Heritage Library|Biodiversity Heritage Library maintenance missing collection|Manns' superior seeds",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "<p>.56. <br>\nJ. MANNS &amp; CO., Forrest and Hillen Sts., Baltimore, Md. <br>\nGOOD POULTRY EQUIPMENT <br>\nDRY MASH HOPPERS <br>\nA strictly high qual- <br>\nity hopper, properly <br>\ndesigned. The curved <br>\nbottom keeps the feed <br>\nin easy reach, and the <br>\ntaper shape of the <br>\nhopper prevents the <br>\nfeed from clogging. <br>\nHeight 19 inches. <br>\nEach <br>\nNo. 35— W i d t h <br>\nSV2 inches $1.50 <br>\nNo. 3&amp;— Width 12 <br>\ninches 1.70 <br>\nNo. 13— Width 18 inches 2.20 <br>\nNo. 37— Width 24 inches 2.60 <br>\nOAT SPROUTER <br>\nThe frame is of <br>\nsteel, well braced and <br>\nneatly painted. Has <br>\nsix heavy galvanized <br>\nIron pans. Five of the <br>\npans have perforated <br>\nbottoms to secure the <br>\nproper drainage, and <br>\nthe bottom pan is <br>\nsolid to hold the drip- <br>\npings. Packed knock- <br>\ned down, one in a <br>\ncrate. Shipping weight <br>\n25 pounds. <br>\nNo. 110— Each $5.00 <br>\nALUMINUM LEG BANDS <br>\nMOEI'S <br>\nf'S4D <br>\nLEG BAND V <br>\nNo. 130 — Aluminum, with raised num <br>\nbers. <br>\nPkg. of 12 25 50 100 500 1,000 <br>\nPrice $ .15 $ .25 $ .40 $ .65 $3.00 $5.50 <br>\nSPIRAL BANDS <br>\nBest quality. Made in <br>\nsix sizes and ten colors. <br>\nSizes: Asiatic, Ameri- <br>\ncan, Mediterranean, Ban- <br>\ntam. 25 bands, 25c; 50 <br>\nbands, 40c; 100 bands, <br>\n75c. <br>\nBaby Chick and Pigeon. <br>\n25 bands, 20c; 50 bands, <br>\n35c; 100 bands, 50c. <br>\nAUTOMATIC FOUNTAIN <br>\nA perfect automatic valve and float, to <br>\nregulate the flow of water to a drinking <br>\ndish. The valve mechanism is entirely <br>\nof brass, nickel finish, with nothing <br>\nabout it to rust or clog up. Positive in <br>\naction. <br>\nEach <br>\nNo. 30 — Automatic Valve and Float <br>\nonly $1.00 <br>\nNo. 31 — Water Pan only. Heavy gal- <br>\nvanized iron 50 <br>\nNo. 31A — Automatic Valve and Pan <br>\ncomplete 1.50 <br>\nRED CHIEF HAND CORN SHELLER <br>\nClamps on barrel or box; has patented <br>\noval-shaped teeth, shelling the corn <br>\nwithout cracking the grains. It shells <br>\nvery easily and throws out the cob every <br>\ntime. Price. $2.00. <br>\nGRIT BOXES <br>\nEconomical and <br>\npractical for feeding <br>\ngrit, shells, etc. <br>\nThoroughly well <br>\nmade, no solder used <br>\nin their construction. <br>\nEach <br>\nNo.. 46 — 2 Com- <br>\npartments . . . .$ .40 <br>\nNo. 9 — 3 Com- <br>\npartments 75 <br>\nNo. 90 — 4 Com- <br>\npartments .... 1.00 <br>\nRED CHIEF RAPID GRINDING MILL <br>\nIt is built on scientific lines and com- <br>\nbines all the elements which make up <br>\nthe most satisfactory Hand-Power Mill <br>\nfor grinding small grain. The burrs are <br>\nextra hardened and self-sharpening; they <br>\ncut; do not smash. <br>\nThe only Mill that can be cleaned and <br>\nadjusted in a moment's time without the <br>\nuse of a wrench. <br>\nNo. 2 — Is operated by a crank; chains <br>\nor bolts to a box as desired. Has hooks <br>\non which to hang a bucket. Capacity <br>\n1 to 2 bushels per hour. Price, $5.00. <br>\nNo. 5 — Has a fly wheel which makes <br>\nthe Mill run steady, and requires the <br>\nleast possible power to turn it. It fas- <br>\ntens by chains or bolts. Capacity 2 to 4 <br>\nbushels per hour. Price, $7.25. <br>\nNo. 10 — This Mill has beautiful out- <br>\nlines, as shown in illustration; will <br>\ngrind any kind of small grain; also <br>\noyster shells and dry bone. Capacity 2 <br>\nto 4 bushels per hour. Price, $9.00. <br>\nDROP BOTTOM FOUNTAINS <br>\nDrop Bottom, <br>\neasy to fill and <br>\nto clean. Has <br>\nwire handle and <br>\nmay be hung on <br>\nthe wall out of <br>\nthe litter and <br>\ndirt. <br>\nNo. 41 — Galvanized, 1 gallon, each.. $1.00 <br>\nNo. 42 — Galvanized, 2 gallons, each. J. 25 <br>\nNo. 136 — Tin, Buttermilk Feeder, 1 <br>\ngallon, each 1.50 <br>\nWALL FOUNTAINS <br>\nA large capacity <br>\nfountain, made of <br>\nheavy, tight coated, <br>\ngalvanized iron. Easy <br>\nto fill, and nothing <br>\nabout it to get out of <br>\norder. <br>\nEach <br>\nNo. 74—5 gal $1.75 <br>\nNo. 78— 10 gallon. <br>\nGiant Fountain 2.65 <br>\nNo. 20 — Combined Hand-Power Mill. <br>\nIt is substantially constructed; all bear- <br>\nings bronze metal, and when run a speed <br>\nof from 300 to 450 revolutions per min- <br>\nute will grind from 10 to 20 bushels per <br>\nhour. Power required, from IV2 to 2 <br>\nhorse-power engine. Price, $21.00. <br>\nKRO <br>\nKiJIsRaisOnly <br>\nNot a poison, will not kill live- <br>\nstock, dogs, cats or poultry. <br>\n</p>\nPrice, 75c.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "1934",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/biodivlibrary/16202692270\">https://www.flickr.com/photos/biodivlibrary/16202692270</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "Henry G. Gilbert Nursery and Seed Trade Catalog Collection.; J. Manns &amp; Co.",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      {
+        "title": "File:Meat Situation in the United States - Part 3. Methods and Cost of Growing Beef Cattle in the Corn Belt States (1916) (14593080270).jpg",
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Meat_Situation_in_the_United_States_-_Part_3._Methods_and_Cost_of_Growing_Beef_Cattle_in_the_Corn_Belt_States_%281916%29_%2814593080270%29.jpg/500px-Meat_Situation_in_the_United_States_-_Part_3._Methods_and_Cost_of_Growing_Beef_Cattle_in_the_Corn_Belt_States_%281916%29_%2814593080270%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 480,
+        "thumbheight": 687,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Meat_Situation_in_the_United_States_-_Part_3._Methods_and_Cost_of_Growing_Beef_Cattle_in_the_Corn_Belt_States_%281916%29_%2814593080270%29.jpg/960px-Meat_Situation_in_the_United_States_-_Part_3._Methods_and_Cost_of_Growing_Beef_Cattle_in_the_Corn_Belt_States_%281916%29_%2814593080270%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Meat_Situation_in_the_United_States_-_Part_3._Methods_and_Cost_of_Growing_Beef_Cattle_in_the_Corn_Belt_States_%281916%29_%2814593080270%29.jpg/500px-Meat_Situation_in_the_United_States_-_Part_3._Methods_and_Cost_of_Growing_Beef_Cattle_in_the_Corn_Belt_States_%281916%29_%2814593080270%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 480,
+          "height": 687,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Meat_Situation_in_the_United_States_-_Part_3._Methods_and_Cost_of_Growing_Beef_Cattle_in_the_Corn_Belt_States_%281916%29_%2814593080270%29.jpg/960px-Meat_Situation_in_the_United_States_-_Part_3._Methods_and_Cost_of_Growing_Beef_Cattle_in_the_Corn_Belt_States_%281916%29_%2814593080270%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Meat_Situation_in_the_United_States_-_Part_3._Methods_and_Cost_of_Growing_Beef_Cattle_in_the_Corn_Belt_States_%281916%29_%2814593080270%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Meat_Situation_in_the_United_States_-_Part_3._Methods_and_Cost_of_Growing_Beef_Cattle_in_the_Corn_Belt_States_(1916)_(14593080270).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=43193349",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2015-09-13 19:00:02",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Meat Situation in the United States - Part 3. Methods and Cost of Growing Beef Cattle in the Corn Belt States (1916) (14593080270)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "1916 books|Photos uploaded from Flickr by Fæ using a script|Flickr images reviewed by FlickreviewR|Files from Internet Archive Book Images Flickr stream|Files from Flickr's 'The Commons'|Media needing category review as of 13 September 2015|United States Department of Agriculture publications",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "<br>\n<p><b>Identifier</b>: meatsituationinu11unit_0 (<a class=\"external text\" href=\"https://commons.wikimedia.org/w/index.php?title=Special%3ASearch&amp;profile=default&amp;fulltext=Search&amp;search=insource%3A%2Fmeatsituationinu11unit_0%2F\">find matches</a>)<br>\n<b>Title</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookidmeatsituationinu11unit_0\">Meat Situation in the United States - Part 3. Methods and Cost of Growing Beef Cattle in the Corn Belt States</a><br>\n<b>Year</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookyear1916\">1916</a> (<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookdecade1910\">1910s</a>)<br>\n<b>Authors</b>:  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookauthorUnited_States__Department_of_Agriculture\">United States. Department of Agriculture</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookauthorWard__W_F\">Ward, W.F</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookauthorCooper__Morton_O\">Cooper, Morton O</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookauthorCotton__J_S\">Cotton, J.S</a> <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookauthorUnited_States__Department_of_Agriculture\">United States. Department of Agriculture</a><br>\n<b>Subjects</b>:  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/booksubjectMeat_industry_and_trade\">Meat industry and trade</a><br>\n<b>Publisher</b>:  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookpublisherWashington__D_C____G_P_O_\">Washington, D.C. : G.P.O.</a><br>\n<b>Contributing Library</b>:  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookcontributorU_S__Department_of_Agriculture__National_Agricultural_Library\">U.S. Department of Agriculture, National Agricultural Library</a><br>\n<b>Digitizing Sponsor</b>:  <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/booksponsorU_S__Department_of_Agriculture__National_Agricultural_Library\">U.S. Department of Agriculture, National Agricultural Library</a><br>\n<br>\n<b>View Book Page</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/stream/meatsituationinu11unit_0/meatsituationinu11unit_0#page/n19/mode/1up\">Book Viewer</a><br>\n<b>About This Book</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/details/meatsituationinu11unit_0\">Catalog Entry</a><br>\n<b>View All Images</b>: <a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/internetarchivebookimages/tags/bookidmeatsituationinu11unit_0\">All Images From Book</a><br>\nClick here to <a rel=\"nofollow\" class=\"external text\" href=\"https://archive.org/stream/meatsituationinu11unit_0/meatsituationinu11unit_0#page/n19/mode/1up\"><b>view book online</b></a> to see this illustration in context in a browseable online version of this book.<br>\n<br>\n<b>Text Appearing Before Image:</b><br>\n<i>39122132 748580 The average area devoted to pasture varies from 104 acres, or 29per cent of the total farm area, in Mnnesota to 191 acres, or 65 percent, in Indiana, where the land is generally rough and broken. Thearea in com varies from 43 acres, or 15 per cent of the total farmarea, in Indiana to 146 acres, or 29 per cent, in South Dakota and105 acres, or 28 per cent, in Nebraska. An average of 85 acres, or29 per cent of the area of the farms visited in Iowa, was plantedto com. The amount of small grain, including oats, wheat, andbarley, varied from 5 per cent of the total area in Indiana to 18 percent in Iowa and South Dakota and 19 per cent in Nebraska. Thearea of hay on these farms ranged from 9 per cent in Indiana to 20per cent in ^lissouri. 16 MEAT SITUATION IX THE UNITED STATES. The average value of the land on the Indiana farms, where 65 percent of the land is in pasture and only 15 per cent in corn, is $59 peracre. In Iowa, where 31 per cent of the farm is in pasture and 29</i><br>\n<b>Text Appearing After Image:</b><br>\n<i>Fia. 2.—The rrl.iiivo size of farms aiul the areas in pastiiro and in corn, in the six groups, bj States. I ••111 ill (•(.III, the nvcra^c^ valu(&gt; is $175 per acre (see PI. II).The X())raska farms, 31 per cent of which were devoted to pastm-eand 2.S jxt (-(mH Io rorn, are vahicMJ at S132 per acre. BEEF CATTLE IX ) THE CORN BELT STATES. 17 Generally speaking, on the farms that were visited, the larger thearea in corn and the smaller the area in pasture the more valuablethe land. The Indiana farmers had an average investment in realestate of less than S20,000, while for the Iowa farmers the sameinvestment was from S50,000 to S55,000. The farms (see fig 2) in the beef and baby-beef groups mvariablyaverage larger than those in any of the other groups in all States. Tliedual-purpose group, ignormg cases where there were only one or tworecords, average the smallest, although in Iowa they were verynearly as large as those in the mixed and double-nursmg groups.The farms in the mixe</i><br>\n<br>\n<b>Note About Images</b><br>\n</p>\n<i>Please note that these images are extracted from scanned page images that may have been digitally enhanced for readability - coloration and appearance of these illustrations may not perfectly resemble the original work.</i>",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "1916",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<p><a rel=\"nofollow\" class=\"external free\" href=\"https://www.flickr.com/photos/internetarchivebookimages/14593080270/\">https://www.flickr.com/photos/internetarchivebookimages/14593080270/</a>\n</p>\n<ul><li>Source book page: <a rel=\"nofollow\" class=\"external free\" href=\"https://archive.org/stream/meatsituationinu11unit_0/meatsituationinu11unit_0#page/n19/mode/1up\">https://archive.org/stream/meatsituationinu11unit_0/meatsituationinu11unit_0#page/n19/mode/1up</a></li></ul>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<p>United States. Department of Agriculture;\nWard, W.F;\nCooper, Morton O;\nCotton, J.S;\n</p>\nUnited States. Department of Agriculture",
+            "source": "commons-desc-page"
+          },
+          "Permission": {
+            "value": "At the time of upload, the image license was automatically confirmed using the Flickr <a href=\"https://en.wikipedia.org/wiki/API\" class=\"extiw\" title=\"en:API\">API</a>. For more information see <a href=\"//commons.wikimedia.org/wiki/User:F%C3%A6/Flickr_API_detail\" title=\"User:Fæ/Flickr API detail\">Flickr API detail</a>.",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseShortName": {
+            "value": "No restrictions",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "No known copyright restrictions",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://www.flickr.com/commons/usage/",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          }
+        }
+      },
+      {
+        "title": "File:Kern Baby by Faye Claridge - Library of Birmingham (25108389533).jpg",
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Kern_Baby_by_Faye_Claridge_-_Library_of_Birmingham_%2825108389533%29.jpg/500px-Kern_Baby_by_Faye_Claridge_-_Library_of_Birmingham_%2825108389533%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 480,
+        "thumbheight": 640,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Kern_Baby_by_Faye_Claridge_-_Library_of_Birmingham_%2825108389533%29.jpg/960px-Kern_Baby_by_Faye_Claridge_-_Library_of_Birmingham_%2825108389533%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Kern_Baby_by_Faye_Claridge_-_Library_of_Birmingham_%2825108389533%29.jpg/500px-Kern_Baby_by_Faye_Claridge_-_Library_of_Birmingham_%2825108389533%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 480,
+          "height": 640,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Kern_Baby_by_Faye_Claridge_-_Library_of_Birmingham_%2825108389533%29.jpg/960px-Kern_Baby_by_Faye_Claridge_-_Library_of_Birmingham_%2825108389533%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Kern_Baby_by_Faye_Claridge_-_Library_of_Birmingham_%2825108389533%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Kern_Baby_by_Faye_Claridge_-_Library_of_Birmingham_(25108389533).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=63902257",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2017-11-06 16:23:41",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Kern Baby by Faye Claridge - Library of Birmingham (25108389533)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Photographs by Elliott Brown|Flickr images reviewed by FlickreviewR 2|Interior of Library of Birmingham|Files with coordinates missing SDC location of creation (52° N, 2° W)",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "52.479625",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "-1.908414",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "<p>The Wicker Woman at the Library of Birmingham. Seen from the Mezzanine level. \n</p><p>Kern Baby by Faye Claridge.\n</p>\nGiant Kern Baby based on a corn dolly.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2016-03-12 12:22",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/photos/ell-r-brown/25108389533/\">Kern Baby by Faye Claridge - Library of Birmingham</a>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a rel=\"nofollow\" class=\"external text\" href=\"https://www.flickr.com/people/39415781@N06\">Elliott Brown</a> from Birmingham, United Kingdom",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 2.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 2.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/2.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-2.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "query": "Gobi 65",
+    "candidates": [
+      {
+        "title": "File:JapaNîmes - Gobi - P1400788.JPG",
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/JapaN%C3%AEmes_-_Gobi_-_P1400788.JPG/500px-JapaN%C3%AEmes_-_Gobi_-_P1400788.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 480,
+        "thumbheight": 360,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/JapaN%C3%AEmes_-_Gobi_-_P1400788.JPG/960px-JapaN%C3%AEmes_-_Gobi_-_P1400788.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/JapaN%C3%AEmes_-_Gobi_-_P1400788.JPG/500px-JapaN%C3%AEmes_-_Gobi_-_P1400788.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 480,
+          "height": 360,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/JapaN%C3%AEmes_-_Gobi_-_P1400788.JPG/960px-JapaN%C3%AEmes_-_Gobi_-_P1400788.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/JapaN%C3%AEmes_-_Gobi_-_P1400788.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:JapaN%C3%AEmes_-_Gobi_-_P1400788.JPG",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=10612396",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2010-06-11 22:02:39",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "JapaNîmes - Gobi - P1400788",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "GFDL|Taken with Panasonic Lumix DMC-G1|Personality rights warning|CC-BY-SA-3.0,2.5,2.0,1.0|License migration redundant|Gobi (comic artist)|Self-published work|Media supported by Wikimedia France|JapaNîmes 2010|Files with coordinates missing SDC location of creation|JapaNîmes 2010 - Supported by Wikimédia France",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "GPSLatitude": {
+            "value": "43.816846",
+            "source": "commons-desc-page"
+          },
+          "GPSLongitude": {
+            "value": "4.365204",
+            "source": "commons-desc-page"
+          },
+          "GPSMapDatum": {
+            "value": "WGS-84",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Photograph taken during the 2nd edition of the <b>JapaNimes</b> convention, which is a convention based on manga, anime and japanese culture organised in Nîmes in France.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2010-06-05",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Esby\" title=\"User:Esby\">Esby</a> (<a href=\"//commons.wikimedia.org/wiki/User_talk:Esby\" title=\"User talk:Esby\"><span class=\"signature-talk\">talk</span></a>) 22:02, 11 June 2010 (UTC)",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/3.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "personality",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      {
+        "title": "File:Gobi 65 (cauliflower fry).jpg",
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Gobi_65_%28cauliflower_fry%29.jpg/500px-Gobi_65_%28cauliflower_fry%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 480,
+        "thumbheight": 798,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Gobi_65_%28cauliflower_fry%29.jpg/960px-Gobi_65_%28cauliflower_fry%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Gobi_65_%28cauliflower_fry%29.jpg/500px-Gobi_65_%28cauliflower_fry%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 480,
+          "height": 798,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Gobi_65_%28cauliflower_fry%29.jpg/960px-Gobi_65_%28cauliflower_fry%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/a/af/Gobi_65_%28cauliflower_fry%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Gobi_65_(cauliflower_fry).jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=102919588",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2021-04-02 18:01:24",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Gobi 65 (cauliflower fry)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Gobi manchurian|Self-published work|Cauliflower-based food",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Cauliflower fry with tomato sause",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2021-04-01",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Alvinjesusyouth&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Alvinjesusyouth (page does not exist)\">Alvinjesusyouth</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      {
+        "title": "File:GOBI 65 - Mini Madras 2026-05-14.jpg",
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/GOBI_65_-_Mini_Madras_2026-05-14.jpg/500px-GOBI_65_-_Mini_Madras_2026-05-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 480,
+        "thumbheight": 361,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/GOBI_65_-_Mini_Madras_2026-05-14.jpg/960px-GOBI_65_-_Mini_Madras_2026-05-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/GOBI_65_-_Mini_Madras_2026-05-14.jpg/500px-GOBI_65_-_Mini_Madras_2026-05-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 480,
+          "height": 361,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/GOBI_65_-_Mini_Madras_2026-05-14.jpg/960px-GOBI_65_-_Mini_Madras_2026-05-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f2/GOBI_65_-_Mini_Madras_2026-05-14.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:GOBI_65_-_Mini_Madras_2026-05-14.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=192379335",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2026-05-19 09:37:11",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "GOBI 65 - Mini Madras 2026-05-14",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "CC-Zero|Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license|Self-published work|Self-published work missing SDC copyright license|Cauliflower dishes of India|May 2026 in West Sussex|England photographs taken on 2026-05-14|Food in the United Kingdom photographed in 2026|Mini Madras, Montague Place, Worthing",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Description on menu: \"Deep-fried cauliflower florets coated in a fiery blend of 65 spices\"",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2026-05-14 19:19:32",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Onthewings\" title=\"User:Onthewings\">Andy Li</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Zero, Public Domain Dedication",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "query": "Palak pakoda",
+    "candidates": [
+      {
+        "title": "File:Palak Pakora.JPG",
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Palak_Pakora.JPG/500px-Palak_Pakora.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 480,
+        "thumbheight": 360,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Palak_Pakora.JPG/960px-Palak_Pakora.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Palak_Pakora.JPG/500px-Palak_Pakora.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 480,
+          "height": 360,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Palak_Pakora.JPG/960px-Palak_Pakora.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Palak_Pakora.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Palak_Pakora.JPG",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=16069575",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2011-08-12 06:10:41",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Palak Pakora",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Taken with Sony DSC-W50|CC-Zero|Cuisine of Pakistan|Pakora|Self-published work|Uploads by Miansari66|Palak pakoda",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Palak pakora",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Miansari66\" title=\"User:Miansari66\">Miansari66</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Zero, Public Domain Dedication",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      {
+        "title": "File:Palak Pakoda (Spinach Pakoda).JPG",
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Palak_Pakoda_%28Spinach_Pakoda%29.JPG/500px-Palak_Pakoda_%28Spinach_Pakoda%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 480,
+        "thumbheight": 360,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Palak_Pakoda_%28Spinach_Pakoda%29.JPG/960px-Palak_Pakoda_%28Spinach_Pakoda%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Palak_Pakoda_%28Spinach_Pakoda%29.JPG/500px-Palak_Pakoda_%28Spinach_Pakoda%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 480,
+          "height": 360,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Palak_Pakoda_%28Spinach_Pakoda%29.JPG/960px-Palak_Pakoda_%28Spinach_Pakoda%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Palak_Pakoda_%28Spinach_Pakoda%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Palak_Pakoda_(Spinach_Pakoda).JPG",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=40921590",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2015-06-12 13:50:03",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Palak Pakoda (Spinach Pakoda)",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Self-published work|Images from Wiki Loves Food 2015|Palak pakoda|Uploaded via Campaign:wlf|Images from Wiki Loves Food 2015 in India",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "A tasty and popular food item and delicious breakfast made in Indian households on any festival occasion.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2013-05-28 15:31:11",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Mdsmds0&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Mdsmds0 (page does not exist)\">Mdsmds0</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      {
+        "title": "File:Palak pakoda.jpg",
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Palak_pakoda.jpg/500px-Palak_pakoda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 480,
+        "thumbheight": 855,
+        "responsiveUrls": {
+          "2": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Palak_pakoda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Palak_pakoda.jpg/500px-Palak_pakoda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 480,
+          "height": 855,
+          "srcset": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Palak_pakoda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Palak_pakoda.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Palak_pakoda.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=40990567",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2015-06-15 18:29:24",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Palak pakoda",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Self-published work|Images from Wiki Loves Food 2015|Palak pakoda|Uploaded via Campaign:wlf",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Palak pakoda",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2015-06-15",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Anikett&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Anikett (page does not exist)\">Anikett</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "query": "Vegetable biryani",
+    "candidates": [
+      {
+        "title": "File:Vegetable Biryani IMG 001.jpg",
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Vegetable_Biryani_IMG_001.jpg/500px-Vegetable_Biryani_IMG_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 480,
+        "thumbheight": 320,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Vegetable_Biryani_IMG_001.jpg/960px-Vegetable_Biryani_IMG_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Vegetable_Biryani_IMG_001.jpg/500px-Vegetable_Biryani_IMG_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 480,
+          "height": 320,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Vegetable_Biryani_IMG_001.jpg/960px-Vegetable_Biryani_IMG_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/09/Vegetable_Biryani_IMG_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vegetable_Biryani_IMG_001.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=94426267",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2020-09-25 10:51:21",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Vegetable Biryani IMG 001",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Self-published work|Mixed vegetable biryani|Uploads by phadke09",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Veg Biryani",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2020-09-03 12:54:54",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Phadke09\" title=\"User:Phadke09\">Phadke09</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      {
+        "title": "File:Vegetable biryani special.jpg",
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Vegetable_biryani_special.jpg/500px-Vegetable_biryani_special.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 480,
+        "thumbheight": 360,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Vegetable_biryani_special.jpg/960px-Vegetable_biryani_special.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Vegetable_biryani_special.jpg/500px-Vegetable_biryani_special.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 480,
+          "height": 360,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Vegetable_biryani_special.jpg/960px-Vegetable_biryani_special.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Vegetable_biryani_special.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vegetable_biryani_special.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=140841252",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2023-11-15 14:56:25",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Vegetable biryani special",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Curry dishes in India|Raita|Self-published work|Mixed vegetable biryani|Taken with Vivo Y22",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Vegetable biryani special",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2023-11-14 13:36:04",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Dhivya_Bharathi_Official&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Dhivya Bharathi Official (page does not exist)\">Dhivya Bharathi Official</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      {
+        "title": "File:Vegetable biryani with beef roast.jpg",
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Vegetable_biryani_with_beef_roast.jpg/500px-Vegetable_biryani_with_beef_roast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 480,
+        "thumbheight": 853,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Vegetable_biryani_with_beef_roast.jpg/960px-Vegetable_biryani_with_beef_roast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Vegetable_biryani_with_beef_roast.jpg/500px-Vegetable_biryani_with_beef_roast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 480,
+          "height": 853,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Vegetable_biryani_with_beef_roast.jpg/960px-Vegetable_biryani_with_beef_roast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Vegetable_biryani_with_beef_roast.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Vegetable_biryani_with_beef_roast.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=155199207",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2024-11-15 10:13:08",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Vegetable biryani with beef roast",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "CC-Zero|Roasted beef|Self-published work|Beef dishes of India|Mixed vegetable biryani",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Vegetable biryani with beef roast on a white plate",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2024-03-31 20:26:44",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:991joseph\" class=\"mw-redirect\" title=\"User:991joseph\">991joseph</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Zero, Public Domain Dedication",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "false",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "query": "Peas pulao",
+    "candidates": [
+      {
+        "title": "File:Pilaf of Uzbekistan, Yerevan.jpg",
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Pilaf_of_Uzbekistan%2C_Yerevan.jpg/500px-Pilaf_of_Uzbekistan%2C_Yerevan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 480,
+        "thumbheight": 640,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Pilaf_of_Uzbekistan%2C_Yerevan.jpg/960px-Pilaf_of_Uzbekistan%2C_Yerevan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Pilaf_of_Uzbekistan%2C_Yerevan.jpg/500px-Pilaf_of_Uzbekistan%2C_Yerevan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 480,
+          "height": 640,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Pilaf_of_Uzbekistan%2C_Yerevan.jpg/960px-Pilaf_of_Uzbekistan%2C_Yerevan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Pilaf_of_Uzbekistan%2C_Yerevan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Pilaf_of_Uzbekistan,_Yerevan.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=63411069",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2017-10-16 17:13:45",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Pilaf of Uzbekistan, Yerevan",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Self-published work|Osh palov|Pilaf of Uzbekistan",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Uzbek pilaf, Yerevan",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2017-10-04",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:GeoO\" title=\"User:GeoO\">GeoO</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      {
+        "title": "File:Samarkand Zigir-pilaf.jpg",
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Samarkand_Zigir-pilaf.jpg/500px-Samarkand_Zigir-pilaf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 480,
+        "thumbheight": 270,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Samarkand_Zigir-pilaf.jpg/960px-Samarkand_Zigir-pilaf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Samarkand_Zigir-pilaf.jpg/500px-Samarkand_Zigir-pilaf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 480,
+          "height": 270,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Samarkand_Zigir-pilaf.jpg/960px-Samarkand_Zigir-pilaf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Samarkand_Zigir-pilaf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Samarkand_Zigir-pilaf.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=82782995",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2019-10-02 09:09:18",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Samarkand Zigir-pilaf",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Pilaf|Linseed oil|Self-published work|Pilaf of Uzbekistan|Meals in Uzbekistan|Food in Samarkand",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Самаркандский плов, приготовленный на льняном масле",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2019-09-23 11:33:58",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/wiki/User:Shuhrataxmedov\" title=\"User:Shuhrataxmedov\">Shuhrataxmedov</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/3.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      {
+        "title": "File:Polu.jpg",
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Polu.jpg/500px-Polu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 480,
+        "thumbheight": 320,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Polu.jpg/960px-Polu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Polu.jpg/500px-Polu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 480,
+          "height": 320,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Polu.jpg/960px-Polu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Polu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Polu.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=116101097",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2013-03-30 22:24:09",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Polu",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "GFDL|CC-BY-SA-3.0,2.5,2.0,1.0|License migration redundant|Files moved to Commons from ja.wikipedia|Self-published work|Pilaf of Xinjiang|National symbols of East Turkestan",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Uyghur <i>Polu</i>, kind of rice <a href=\"https://en.wikipedia.org/wiki/Pilaf\" class=\"extiw\" title=\"en:Pilaf\">pilaf</a>, a traditional dish and staple food in the cuisines of many Asian countries",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2009-11-27",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "\"Silkroad Tarim\", Tokyo, JAPAN.",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"https://en.wikipedia.org/wiki/ja:User:Mizu_basyo\" class=\"extiw\" title=\"w:ja:User:Mizu basyo\">Mizu basyo</a> at <a href=\"https://en.wikipedia.org/wiki/ja:\" class=\"extiw\" title=\"w:ja:\">Japanese Wikipedia</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 3.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 3.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Attribution": {
+            "value": "<a href=\"https://en.wikipedia.org/wiki/ja:User:Mizu_basyo\" class=\"extiw\" title=\"w:ja:User:Mizu basyo\">Mizu basyo</a> at <a href=\"https://en.wikipedia.org/wiki/ja:\" class=\"extiw\" title=\"w:ja:\">Japanese Wikipedia</a>",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/3.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-3.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  },
+  {
+    "query": "Lemon rice",
+    "candidates": [
+      {
+        "title": "File:Lemon Rice in Kerala.jpg",
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Lemon_Rice_in_Kerala.jpg/500px-Lemon_Rice_in_Kerala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 480,
+        "thumbheight": 270,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Lemon_Rice_in_Kerala.jpg/960px-Lemon_Rice_in_Kerala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Lemon_Rice_in_Kerala.jpg/500px-Lemon_Rice_in_Kerala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 480,
+          "height": 270,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Lemon_Rice_in_Kerala.jpg/960px-Lemon_Rice_in_Kerala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Lemon_Rice_in_Kerala.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Lemon_Rice_in_Kerala.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=40822081",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2015-06-08 11:22:04",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Lemon Rice in Kerala",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Self-published work|Images from Wiki Loves Food 2015|Rice dishes of Kerala|Uploaded via Campaign:wlf|Sliced limes in India|Lemon rice",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Lemon Rice in Kerala",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2014-12-17 19:35:04",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Ganeshgore555&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Ganeshgore555 (page does not exist)\">Ganesh Gore</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      {
+        "title": "File:Picture of Lemon rice dish.JPG",
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Picture_of_Lemon_rice_dish.JPG/500px-Picture_of_Lemon_rice_dish.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 480,
+        "thumbheight": 720,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Picture_of_Lemon_rice_dish.JPG/960px-Picture_of_Lemon_rice_dish.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Picture_of_Lemon_rice_dish.JPG/500px-Picture_of_Lemon_rice_dish.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 480,
+          "height": 720,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Picture_of_Lemon_rice_dish.JPG/960px-Picture_of_Lemon_rice_dish.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Picture_of_Lemon_rice_dish.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Picture_of_Lemon_rice_dish.JPG",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=40916524",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2015-06-12 07:28:33",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Picture of Lemon rice dish",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "Rice dishes of India|Self-published work|Images from Wiki Loves Food 2015|Uploaded via Campaign:wlf|Lemon rice",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "rice seasoned with lemon juice",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "2014-08-19 19:18:24",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"en\">Own work</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Nithyasrm&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Nithyasrm (page does not exist)\">Nithyasrm</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "CC BY-SA 4.0",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "Creative Commons Attribution-Share Alike 4.0",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "https://creativecommons.org/licenses/by-sa/4.0",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "License": {
+            "value": "cc-by-sa-4.0",
+            "source": "commons-templates",
+            "hidden": ""
+          }
+        }
+      },
+      {
+        "title": "File:Chitranna (Lemon Rice) prepared by an indian woman.jpg",
+        "thumburl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Chitranna_%28Lemon_Rice%29_prepared_by_an_indian_woman.jpg/500px-Chitranna_%28Lemon_Rice%29_prepared_by_an_indian_woman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "thumbwidth": 480,
+        "thumbheight": 360,
+        "responsiveUrls": {
+          "2": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Chitranna_%28Lemon_Rice%29_prepared_by_an_indian_woman.jpg/960px-Chitranna_%28Lemon_Rice%29_prepared_by_an_indian_woman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+        },
+        "thumbattribs": {
+          "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Chitranna_%28Lemon_Rice%29_prepared_by_an_indian_woman.jpg/500px-Chitranna_%28Lemon_Rice%29_prepared_by_an_indian_woman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "decoding": "async",
+          "loading": "lazy",
+          "width": 480,
+          "height": 360,
+          "srcset": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Chitranna_%28Lemon_Rice%29_prepared_by_an_indian_woman.jpg/960px-Chitranna_%28Lemon_Rice%29_prepared_by_an_indian_woman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail 2x"
+        },
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Chitranna_%28Lemon_Rice%29_prepared_by_an_indian_woman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "descriptionurl": "https://commons.wikimedia.org/wiki/File:Chitranna_(Lemon_Rice)_prepared_by_an_indian_woman.jpg",
+        "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=51832414",
+        "extmetadata": {
+          "DateTime": {
+            "value": "2016-09-28 13:03:53",
+            "source": "mediawiki-metadata",
+            "hidden": ""
+          },
+          "ObjectName": {
+            "value": "Chitranna (Lemon Rice) prepared by an indian woman",
+            "source": "mediawiki-metadata"
+          },
+          "CommonsMetadataExtension": {
+            "value": 1.2,
+            "source": "extension",
+            "hidden": ""
+          },
+          "Categories": {
+            "value": "GFDL|User-created GFDL images|License migration not eligible|Self-published work|Photographs taken on 2016-05-11|Files uploaded with For the Common Good|Chitranna",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "Assessments": {
+            "value": "",
+            "source": "commons-categories",
+            "hidden": ""
+          },
+          "ImageDescription": {
+            "value": "Chitranna (Lemon Rice) prepared by an indian woman in Chintamani, India.",
+            "source": "commons-desc-page"
+          },
+          "DateTimeOriginal": {
+            "value": "11 May 2016 (according to <span lang=\"en\" dir=\"ltr\"><a href=\"https://en.wikipedia.org/wiki/Exif\" class=\"extiw\" title=\"en:Exif\">Exif</a></span> data)",
+            "source": "commons-desc-page"
+          },
+          "Credit": {
+            "value": "<span class=\"int-own-work\" lang=\"\">Own work by the original uploader</span>",
+            "source": "commons-desc-page"
+          },
+          "Artist": {
+            "value": "<a href=\"https://en.wikipedia.org/wiki/User:Dahivada\" class=\"extiw\" title=\"en:User:Dahivada\">Dahivada</a>",
+            "source": "commons-desc-page"
+          },
+          "LicenseShortName": {
+            "value": "GFDL",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "UsageTerms": {
+            "value": "GNU Free Documentation License",
+            "source": "commons-desc-page"
+          },
+          "AttributionRequired": {
+            "value": "true",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "LicenseUrl": {
+            "value": "http://www.gnu.org/copyleft/fdl.html",
+            "source": "commons-desc-page"
+          },
+          "Copyrighted": {
+            "value": "True",
+            "source": "commons-desc-page",
+            "hidden": ""
+          },
+          "Restrictions": {
+            "value": "",
+            "source": "commons-desc-page",
+            "hidden": ""
+          }
+        }
+      }
+    ]
+  }
+]

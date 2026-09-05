@@ -1,0 +1,12 @@
+import {writeFile} from 'node:fs/promises';
+const groups=[
+ ['sweets',['Badam burfi','Badam barfi','Almond barfi','Rava laddu','Rava ladoo','Coconut burfi','Coconut barfi','Milk burfi','Kala jamun','Semiya payasam','Khubani ka meetha','Qubani ka meetha','Kaddu kheer','Pineapple kesari','Chum chum','Malai roll','Hayagreeva','Mohan laddu']],
+ ['snacks',['Baby corn 65','Crispy baby corn','Babycorn','Aloo 65','Onion pakoda','Cabbage pakoda','Potato pakora','Brinjal bajji','Banana bajji','Paneer pakoda','Bonda','Goli baje','Chivda','Vegetable Manchurian','Veg manchurian','Khara boondi']],
+ ['bread-rice',['Rumali roti','Peas pulao','Peas pulav','Matar pulao','Vangi bath','Mooli paratha','Methi paratha','Aloo paratha','Palak puri','Peshwari naan','Tomato rice','Semiya upma','Ragi idli','Onion dosa','Rava pongal','Tandoori roti','Jowar roti','Poha']],
+ ['curries',['Gutti vankaya','Dondakaya fry','Beans curry','Beans palya','Cabbage curry','Aloo methi','Gawar curry','Aloo tomato','Vegetable kurma','Malai kofta','Stuffed tomato','Suran fry','Taro fry','Paneer butter masala','Palak paneer','Navratan korma','Capsicum curry']],
+ ['dal-chutney',['Tomato dal','Palak dal','Gongura pappu','Mango dal','Dosakaya','Majjiga pulusu','Lemon rasam','Mysore rasam','Gongura pickle','Tomato pickle','Allam pachadi','Kandi podi','Curry leaf powder','Mint chutney','Dal tadka','Idli podi']],
+ ['extras',['Boondi raita','Onion raita','Tomato raita','Dry fruit raita','Cassata ice cream','Butterscotch ice cream','Kesar ice cream','Fruit chaat','Corn soup','Sweet paan','Meetha paan','Glass of water','Vegetable soup','Mango pickle']]
+];
+const results=[];
+for(const [group,terms] of groups){const u=new URL('https://commons.wikimedia.org/w/api.php');u.search=new URLSearchParams({action:'query',format:'json',generator:'search',gsrsearch:terms.map(t=>`intitle:"${t}"`).join(' OR '),gsrnamespace:'6',gsrlimit:'120',prop:'imageinfo',iiprop:'url|extmetadata',iiurlwidth:'480'});const r=await fetch(u,{headers:{'User-Agent':'SriVinayakaCatalog/1.0'}});if(r.status===429){console.log('Rate limited; stopping.');break;}if(!r.ok)throw Error(r.status);const d=await r.json();results.push({group,candidates:Object.values(d.query?.pages||{})});console.log(group+': '+results.at(-1).candidates.length);await new Promise(r=>setTimeout(r,5000));}
+await writeFile('research/exact-photo-candidates.json',JSON.stringify(results,null,2));

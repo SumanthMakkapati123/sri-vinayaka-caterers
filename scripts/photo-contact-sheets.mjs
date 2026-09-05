@@ -1,0 +1,7 @@
+import {chromium} from '@playwright/test';
+import {readFile,writeFile,mkdir} from 'node:fs/promises';
+import {escapeHTML as e} from '../shared.js';
+const candidates=JSON.parse(await readFile('research/more-photo-candidates.json','utf8'));
+await mkdir('research/photo-contact-sheets',{recursive:true});
+const browser=await chromium.launch({channel:'chrome',headless:true});
+try{const page=await browser.newPage({viewport:{width:1100,height:1000}});for(let start=0;start<candidates.length;start+=20){const chunk=candidates.slice(start,start+20);const html=`<html><style>body{margin:10px;font:12px Arial;background:#fafafa}.grid{display:grid;grid-template-columns:repeat(5,1fr);gap:10px}figure{margin:0;border:1px solid #ddd;padding:5px;height:235px;overflow:hidden}img{width:100%;height:160px;object-fit:contain}b{display:block;font-size:13px}small{font-size:10px}</style><div class="grid">${chunk.map((p,i)=>`<figure><img src="../more-photo-review/${p.file}"><b>${start+i+1}. ${e(p.id)}</b><small>${e(p.title)}</small></figure>`).join('')}</div></html>`;const file=`research/photo-contact-sheets/batch-${Math.floor(start/20)+1}.html`;await writeFile(file,html);await page.goto('file://'+process.cwd()+'/'+file);await page.locator('img').evaluateAll(imgs=>Promise.all(imgs.map(i=>i.decode().catch(()=>{}))));await page.screenshot({path:file.replace('.html','.png'),fullPage:true});console.log(file.replace('.html','.png'));}}finally{await browser.close();}

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "gulab-jamun",
+    "file": "dish-gulab-jamun.jpg",
+    "creator": "Suyash.dwivedi",
+    "source": "https://commons.wikimedia.org/wiki/File:Two_Gulab_Jamun_in_a_plate_01.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized by Wikimedia; displayed cropped to fit dish cards.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/58/Two_Gulab_Jamun_in_a_plate_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "id": "rava-kesari",
+    "file": "dish-rava-kesari.jpg",
+    "creator": "Harsha K R from Bangalore, India",
+    "source": "https://commons.wikimedia.org/wiki/File:Kesari_Bath_(5832083727).jpg",
+    "license": "CC BY-SA 2.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/2.0",
+    "changes": "Resized by Wikimedia; displayed cropped to fit dish cards.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Kesari_Bath_%285832083727%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "id": "pala-payasam",
+    "file": "dish-pala-payasam.jpg",
+    "creator": "Vnair23",
+    "source": "https://commons.wikimedia.org/wiki/File:Rice_pudding_also_called_payasam_or_kheer.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized by Wikimedia; displayed cropped to fit dish cards.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/9/94/Rice_pudding_also_called_payasam_or_kheer.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "id": "gobi-65",
+    "file": "dish-gobi-65.jpg",
+    "creator": "Alvinjesusyouth",
+    "source": "https://commons.wikimedia.org/wiki/File:Gobi_65_(cauliflower_fry).jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized by Wikimedia; displayed cropped to fit dish cards.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/a/af/Gobi_65_%28cauliflower_fry%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "id": "palak-pakoda",
+    "file": "dish-palak-pakoda.jpg",
+    "creator": "Mdsmds0",
+    "source": "https://commons.wikimedia.org/wiki/File:Palak_Pakoda_(Spinach_Pakoda).JPG",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized by Wikimedia; displayed cropped to fit dish cards.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/5/50/Palak_Pakoda_%28Spinach_Pakoda%29.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "id": "veg-biryani",
+    "file": "dish-veg-biryani.jpg",
+    "creator": "Phadke09",
+    "source": "https://commons.wikimedia.org/wiki/File:Vegetable_Biryani_IMG_001.jpg",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized by Wikimedia; displayed cropped to fit dish cards.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/0/09/Vegetable_Biryani_IMG_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  },
+  {
+    "id": "lemon-rice",
+    "file": "dish-lemon-rice.jpg",
+    "creator": "Nithyasrm",
+    "source": "https://commons.wikimedia.org/wiki/File:Picture_of_Lemon_rice_dish.JPG",
+    "license": "CC BY-SA 4.0",
+    "licenseURL": "https://creativecommons.org/licenses/by-sa/4.0",
+    "changes": "Resized by Wikimedia; displayed cropped to fit dish cards.",
+    "original": "https://upload.wikimedia.org/wikipedia/commons/b/be/Picture_of_Lemon_rice_dish.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original"
+  }
+]

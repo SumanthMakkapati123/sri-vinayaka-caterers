@@ -1,0 +1,1362 @@
+[
+  {
+    "batchcomplete": "",
+    "query": {
+      "redirects": [
+        {
+          "from": "Coconut barfi",
+          "to": "Barfi"
+        },
+        {
+          "from": "Potato chip",
+          "to": "Potato chips"
+        },
+        {
+          "from": "Onion bhaji",
+          "to": "Bhaji"
+        },
+        {
+          "from": "Bisi bele bath",
+          "to": "Bisi Bele Bhat"
+        },
+        {
+          "from": "Kala jamun",
+          "to": "Gulab jamun",
+          "tofragment": "Variants"
+        },
+        {
+          "from": "Bombay halwa",
+          "to": "Karachi halwa"
+        },
+        {
+          "from": "Balushahi",
+          "to": "Makhan Bada"
+        },
+        {
+          "from": "Jeera rice",
+          "to": "Jeera bhaat"
+        },
+        {
+          "from": "Peas pulao",
+          "to": "Pilaf",
+          "tofragment": "India"
+        }
+      ],
+      "pages": {
+        "24851": {
+          "pageid": 24851,
+          "ns": 0,
+          "title": "Potato chips",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Potato-Chips.jpg/500px-Potato-Chips.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 360
+          },
+          "pageimage": "Potato-Chips.jpg"
+        },
+        "581997": {
+          "pageid": 581997,
+          "ns": 0,
+          "title": "Pilaf",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Afghan_Palo.jpg/500px-Afghan_Palo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 360
+          },
+          "pageimage": "Afghan_Palo.jpg"
+        },
+        "977446": {
+          "pageid": 977446,
+          "ns": 0,
+          "title": "Gulab jamun",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Gulab-jamun-wallpaper-1.jpg/500px-Gulab-jamun-wallpaper-1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 320
+          },
+          "pageimage": "Gulab-jamun-wallpaper-1.jpg"
+        },
+        "1270756": {
+          "pageid": 1270756,
+          "ns": 0,
+          "title": "Jalebi",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Basavanagudi_Kadalekai_Parishe_%282025%29_Bangalore_%2886%29.jpg/500px-Basavanagudi_Kadalekai_Parishe_%282025%29_Bangalore_%2886%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 361
+          },
+          "pageimage": "Basavanagudi_Kadalekai_Parishe_(2025)_Bangalore_(86).jpg"
+        },
+        "1689825": {
+          "pageid": 1689825,
+          "ns": 0,
+          "title": "Laddu",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Laddu_Sweet.JPG/500px-Laddu_Sweet.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 320
+          },
+          "pageimage": "Laddu_Sweet.JPG"
+        },
+        "1930232": {
+          "pageid": 1930232,
+          "ns": 0,
+          "title": "Mysore pak",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Mysore_pak.jpg/500px-Mysore_pak.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 320
+          },
+          "pageimage": "Mysore_pak.jpg"
+        },
+        "2029981": {
+          "pageid": 2029981,
+          "ns": 0,
+          "title": "Rasgulla",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Rasgulla.jpg/500px-Rasgulla.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 389
+          },
+          "pageimage": "Rasgulla.jpg"
+        },
+        "2165989": {
+          "pageid": 2165989,
+          "ns": 0,
+          "title": "Shrikhand",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Shrikhand_london_kastoori.jpg/500px-Shrikhand_london_kastoori.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 352
+          },
+          "pageimage": "Shrikhand_london_kastoori.jpg"
+        },
+        "2363548": {
+          "pageid": 2363548,
+          "ns": 0,
+          "title": "Kaju katli",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Kaju_katli_sweet.jpg/500px-Kaju_katli_sweet.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 360
+          },
+          "pageimage": "Kaju_katli_sweet.jpg"
+        },
+        "2399742": {
+          "pageid": 2399742,
+          "ns": 0,
+          "title": "Chocolate cake",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Chocolate_fudge_cake.jpg/500px-Chocolate_fudge_cake.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 640
+          },
+          "pageimage": "Chocolate_fudge_cake.jpg"
+        },
+        "2649590": {
+          "pageid": 2649590,
+          "ns": 0,
+          "title": "Barfi",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Almond_Khoa_based_burfi_Mumbai_India_%28cropped%29.jpg/500px-Almond_Khoa_based_burfi_Mumbai_India_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 225
+          },
+          "pageimage": "Almond_Khoa_based_burfi_Mumbai_India_(cropped).jpg"
+        },
+        "2781735": {
+          "pageid": 2781735,
+          "ns": 0,
+          "title": "Puran poli",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/1/13/Puran_Poli.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 500,
+            "height": 375
+          },
+          "pageimage": "Puran_Poli.jpg"
+        },
+        "3594195": {
+          "pageid": 3594195,
+          "ns": 0,
+          "title": "Pulihora",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Pulihara.JPG/500px-Pulihara.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 320
+          },
+          "pageimage": "Pulihara.JPG"
+        },
+        "3979096": {
+          "pageid": 3979096,
+          "ns": 0,
+          "title": "Petha",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Petha_kesari.JPG/500px-Petha_kesari.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 320
+          },
+          "pageimage": "Petha_kesari.JPG"
+        },
+        "4709850": {
+          "pageid": 4709850,
+          "ns": 0,
+          "title": "Bhaji",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Stuffed_mirchi_bajji_%2816164286908%29.jpg/500px-Stuffed_mirchi_bajji_%2816164286908%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 413
+          },
+          "pageimage": "Stuffed_mirchi_bajji_(16164286908).jpg"
+        },
+        "5284431": {
+          "pageid": 5284431,
+          "ns": 0,
+          "title": "Chikki",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Peanut_Chikki.JPG/500px-Peanut_Chikki.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 360
+          },
+          "pageimage": "Peanut_Chikki.JPG"
+        },
+        "7530620": {
+          "pageid": 7530620,
+          "ns": 0,
+          "title": "Basundi",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Basundi_in_Maharashtrian_style.jpg/500px-Basundi_in_Maharashtrian_style.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 263
+          },
+          "pageimage": "Basundi_in_Maharashtrian_style.jpg"
+        },
+        "10728596": {
+          "pageid": 10728596,
+          "ns": 0,
+          "title": "Bisi Bele Bhat",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Bisi_Bele_Bath_%28Bisibelebath%29.JPG/500px-Bisi_Bele_Bath_%28Bisibelebath%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 320
+          },
+          "pageimage": "Bisi_Bele_Bath_(Bisibelebath).JPG"
+        },
+        "11219319": {
+          "pageid": 11219319,
+          "ns": 0,
+          "title": "Boondi",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Boondi_Mithai.jpg/500px-Boondi_Mithai.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 320
+          },
+          "pageimage": "Boondi_Mithai.jpg"
+        },
+        "11354135": {
+          "pageid": 11354135,
+          "ns": 0,
+          "title": "Imarti",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/JalebiIndia.jpg/500px-JalebiIndia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 360
+          },
+          "pageimage": "JalebiIndia.jpg"
+        },
+        "13089526": {
+          "pageid": 13089526,
+          "ns": 0,
+          "title": "Sheer khurma",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Sheer_Khurma.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 500,
+            "height": 375
+          },
+          "pageimage": "Sheer_Khurma.jpg"
+        },
+        "13514896": {
+          "pageid": 13514896,
+          "ns": 0,
+          "title": "Kalakand",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/4/40/Koderma_Kalakand.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 474,
+            "height": 355
+          },
+          "pageimage": "Koderma_Kalakand.jpg"
+        },
+        "13531190": {
+          "pageid": 13531190,
+          "ns": 0,
+          "title": "Mirchi bada",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Mirchi_Bada_from_Jodhpur_1.jpg/500px-Mirchi_Bada_from_Jodhpur_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 360
+          },
+          "pageimage": "Mirchi_Bada_from_Jodhpur_1.jpg"
+        },
+        "14088596": {
+          "pageid": 14088596,
+          "ns": 0,
+          "title": "Soan papdi",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Son_papadi.jpg/500px-Son_papadi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 354
+          },
+          "pageimage": "Son_papadi.jpg"
+        },
+        "14542263": {
+          "pageid": 14542263,
+          "ns": 0,
+          "title": "Kakinada Kaja",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Andhra_Telangana_Sweets_-_Kakinada_Kaja.jpg/500px-Andhra_Telangana_Sweets_-_Kakinada_Kaja.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 377
+          },
+          "pageimage": "Andhra_Telangana_Sweets_-_Kakinada_Kaja.jpg"
+        },
+        "19680709": {
+          "pageid": 19680709,
+          "ns": 0,
+          "title": "Makhan Bada",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Home_made_makkhan_bada.jpg/500px-Home_made_makkhan_bada.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 480
+          },
+          "pageimage": "Home_made_makkhan_bada.jpg"
+        },
+        "22739637": {
+          "pageid": 22739637,
+          "ns": 0,
+          "title": "Jeera bhaat",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Jeera-rice.JPG/500px-Jeera-rice.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 270
+          },
+          "pageimage": "Jeera-rice.JPG"
+        },
+        "33647087": {
+          "pageid": 33647087,
+          "ns": 0,
+          "title": "Manchurian (dish)",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Chicken_Manchurian_%28Hyderabad_Style%29_%2811960049916%29.jpg/500px-Chicken_Manchurian_%28Hyderabad_Style%29_%2811960049916%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 310
+          },
+          "pageimage": "Chicken_Manchurian_(Hyderabad_Style)_(11960049916).jpg"
+        },
+        "35330783": {
+          "pageid": 35330783,
+          "ns": 0,
+          "title": "Sev (food)",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Sev_2013-12-01_16-57.jpg/500px-Sev_2013-12-01_16-57.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 640
+          },
+          "pageimage": "Sev_2013-12-01_16-57.jpg"
+        },
+        "35649953": {
+          "pageid": 35649953,
+          "ns": 0,
+          "title": "Murukku",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/A_Traditional_Tamil_Snack_Murukku.jpg/500px-A_Traditional_Tamil_Snack_Murukku.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 270
+          },
+          "pageimage": "A_Traditional_Tamil_Snack_Murukku.jpg"
+        },
+        "37137671": {
+          "pageid": 37137671,
+          "ns": 0,
+          "title": "Gajar ka halwa",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Cuisine_%28268%29_44.jpg/500px-Cuisine_%28268%29_44.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 709
+          },
+          "pageimage": "Cuisine_(268)_44.jpg"
+        },
+        "37596353": {
+          "pageid": 37596353,
+          "ns": 0,
+          "title": "Chandrakala (dessert)",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Chandirakala.jpg/500px-Chandirakala.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 473
+          },
+          "pageimage": "Chandirakala.jpg"
+        },
+        "44436529": {
+          "pageid": 44436529,
+          "ns": 0,
+          "title": "Punugulu",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Punugulu1.JPG/500px-Punugulu1.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 349
+          },
+          "pageimage": "Punugulu1.JPG"
+        },
+        "49255628": {
+          "pageid": 49255628,
+          "ns": 0,
+          "title": "Karachi halwa",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Karachi_Halwa_%28Corn_Flour_Halwa%29.jpg/500px-Karachi_Halwa_%28Corn_Flour_Halwa%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 573
+          },
+          "pageimage": "Karachi_Halwa_(Corn_Flour_Halwa).jpg"
+        },
+        "74695380": {
+          "pageid": 74695380,
+          "ns": 0,
+          "title": "Bonda"
+        },
+        "-1": {
+          "ns": 0,
+          "title": "Badam burfi",
+          "missing": ""
+        },
+        "-2": {
+          "ns": 0,
+          "title": "Rava laddu",
+          "missing": ""
+        },
+        "-3": {
+          "ns": 0,
+          "title": "Kadubu",
+          "missing": ""
+        },
+        "-4": {
+          "ns": 0,
+          "title": "Hayagriva maddi",
+          "missing": ""
+        },
+        "-5": {
+          "ns": 0,
+          "title": "Goli baje",
+          "missing": ""
+        }
+      }
+    }
+  },
+  {
+    "batchcomplete": "",
+    "query": {
+      "redirects": [
+        {
+          "from": "Dahi puri",
+          "to": "Sev puri"
+        },
+        {
+          "from": "Navratan korma",
+          "to": "Korma",
+          "tofragment": "Navratan korma"
+        },
+        {
+          "from": "Aloo paratha",
+          "to": "Paratha"
+        },
+        {
+          "from": "Paneer butter masala",
+          "to": "Shahi paneer"
+        },
+        {
+          "from": "Malai kofta",
+          "to": "Kofta"
+        },
+        {
+          "from": "Tandoori roti",
+          "to": "Tandoor bread"
+        },
+        {
+          "from": "Papri chaat",
+          "to": "Papri chat"
+        },
+        {
+          "from": "Bhatoora",
+          "to": "Bhatura"
+        },
+        {
+          "from": "Rumali roti",
+          "to": "Manda roti"
+        },
+        {
+          "from": "Aloo gobi",
+          "to": "Aloo gobhi"
+        }
+      ],
+      "pages": {
+        "48212": {
+          "pageid": 48212,
+          "ns": 0,
+          "title": "Ice cream",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Ice_cream_with_whipped_cream%2C_chocolate_syrup%2C_and_a_wafer_%28cropped%29.jpg/500px-Ice_cream_with_whipped_cream%2C_chocolate_syrup%2C_and_a_wafer_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 629
+          },
+          "pageimage": "Ice_cream_with_whipped_cream,_chocolate_syrup,_and_a_wafer_(cropped).jpg"
+        },
+        "52824": {
+          "pageid": 52824,
+          "ns": 0,
+          "title": "Orange juice",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Orangejuice.jpg/500px-Orangejuice.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 719
+          },
+          "pageimage": "Orangejuice.jpg"
+        },
+        "234721": {
+          "pageid": 234721,
+          "ns": 0,
+          "title": "Chapati",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/2_Chapati_warm_and_ready_to_be_eaten.jpg/500px-2_Chapati_warm_and_ready_to_be_eaten.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 321
+          },
+          "pageimage": "2_Chapati_warm_and_ready_to_be_eaten.jpg"
+        },
+        "429276": {
+          "pageid": 429276,
+          "ns": 0,
+          "title": "Naan",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Annapurna_Naan.jpg/500px-Annapurna_Naan.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 318
+          },
+          "pageimage": "Annapurna_Naan.jpg"
+        },
+        "429277": {
+          "pageid": 429277,
+          "ns": 0,
+          "title": "Roti",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/2020-05-08_19_34_28_Chapati_being_made_in_a_pan_in_the_Franklin_Farm_section_of_Oak_Hill%2C_Fairfax_County%2C_Virginia.jpg/500px-2020-05-08_19_34_28_Chapati_being_made_in_a_pan_in_the_Franklin_Farm_section_of_Oak_Hill%2C_Fairfax_County%2C_Virginia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 360
+          },
+          "pageimage": "2020-05-08_19_34_28_Chapati_being_made_in_a_pan_in_the_Franklin_Farm_section_of_Oak_Hill,_Fairfax_County,_Virginia.jpg"
+        },
+        "601094": {
+          "pageid": 601094,
+          "ns": 0,
+          "title": "Korma",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Chicken_Korma.JPG/500px-Chicken_Korma.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 360
+          },
+          "pageimage": "Chicken_Korma.JPG"
+        },
+        "867776": {
+          "pageid": 867776,
+          "ns": 0,
+          "title": "Bhel puri",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Behael_Puri_%286105489342%29.jpg/500px-Behael_Puri_%286105489342%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 360
+          },
+          "pageimage": "Behael_Puri_(6105489342).jpg"
+        },
+        "970221": {
+          "pageid": 970221,
+          "ns": 0,
+          "title": "Aloo gobhi",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Aloo_Ghobi.jpg/500px-Aloo_Ghobi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 368
+          },
+          "pageimage": "Aloo_Ghobi.jpg"
+        },
+        "1310911": {
+          "pageid": 1310911,
+          "ns": 0,
+          "title": "Fruit salad",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Fruktsallad_%28Fruit_salad%29.jpg/500px-Fruktsallad_%28Fruit_salad%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 360
+          },
+          "pageimage": "Fruktsallad_(Fruit_salad).jpg"
+        },
+        "1345813": {
+          "pageid": 1345813,
+          "ns": 0,
+          "title": "Bhakri",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bhakri_1.jpg/500px-Bhakri_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 360
+          },
+          "pageimage": "Bhakri_1.jpg"
+        },
+        "1728424": {
+          "pageid": 1728424,
+          "ns": 0,
+          "title": "Bhatura",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Bhatoora.jpg/500px-Bhatoora.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 353
+          },
+          "pageimage": "Bhatoora.jpg"
+        },
+        "2223360": {
+          "pageid": 2223360,
+          "ns": 0,
+          "title": "Puri (food)",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Fluffy_Poori_%28cropped%29.JPG/500px-Fluffy_Poori_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 480
+          },
+          "pageimage": "Fluffy_Poori_(cropped).JPG"
+        },
+        "2298280": {
+          "pageid": 2298280,
+          "ns": 0,
+          "title": "Pav bhaji",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Bambayya_Pav_bhaji.jpg/500px-Bambayya_Pav_bhaji.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 298
+          },
+          "pageimage": "Bambayya_Pav_bhaji.jpg"
+        },
+        "2653971": {
+          "pageid": 2653971,
+          "ns": 0,
+          "title": "Curd rice",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Curd_Rice.jpg/500px-Curd_Rice.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 364
+          },
+          "pageimage": "Curd_Rice.jpg"
+        },
+        "2859156": {
+          "pageid": 2859156,
+          "ns": 0,
+          "title": "Palak paneer",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Palakpaneer_Rayagada_Odisha_0009.jpg/500px-Palakpaneer_Rayagada_Odisha_0009.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 414
+          },
+          "pageimage": "Palakpaneer_Rayagada_Odisha_0009.jpg"
+        },
+        "3046460": {
+          "pageid": 3046460,
+          "ns": 0,
+          "title": "Kofta",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Koofteh_tabrizi.jpg/500px-Koofteh_tabrizi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 360
+          },
+          "pageimage": "Koofteh_tabrizi.jpg"
+        },
+        "3055213": {
+          "pageid": 3055213,
+          "ns": 0,
+          "title": "Chana masala",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Chana_masala.jpg/500px-Chana_masala.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 360
+          },
+          "pageimage": "Chana_masala.jpg"
+        },
+        "3093036": {
+          "pageid": 3093036,
+          "ns": 0,
+          "title": "Pongal (dish)",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Ven_pongal_with_sambar_and_chutney.jpg/500px-Ven_pongal_with_sambar_and_chutney.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 322
+          },
+          "pageimage": "Ven_pongal_with_sambar_and_chutney.jpg"
+        },
+        "3479570": {
+          "pageid": 3479570,
+          "ns": 0,
+          "title": "Papri chat",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Papri_Pakori_Chat.JPG/500px-Papri_Pakori_Chat.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 320
+          },
+          "pageimage": "Papri_Pakori_Chat.JPG"
+        },
+        "4710008": {
+          "pageid": 4710008,
+          "ns": 0,
+          "title": "Kachori",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Rajasthani_Raj_Kachori.jpg/500px-Rajasthani_Raj_Kachori.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 413
+          },
+          "pageimage": "Rajasthani_Raj_Kachori.jpg"
+        },
+        "5240238": {
+          "pageid": 5240238,
+          "ns": 0,
+          "title": "Kulcha",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Chole_Kulcha_Meal_-_Order_Food_Online_in_Mumbai_%2831013272937%29.jpg/500px-Chole_Kulcha_Meal_-_Order_Food_Online_in_Mumbai_%2831013272937%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 321
+          },
+          "pageimage": "Chole_Kulcha_Meal_-_Order_Food_Online_in_Mumbai_(31013272937).jpg"
+        },
+        "14070491": {
+          "pageid": 14070491,
+          "ns": 0,
+          "title": "Baghaar-e-baingan",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Baghare_Baingan.JPG/500px-Baghare_Baingan.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 360
+          },
+          "pageimage": "Baghare_Baingan.JPG"
+        },
+        "14369998": {
+          "pageid": 14369998,
+          "ns": 0,
+          "title": "Cooked rice",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Meshi_001.jpg/500px-Meshi_001.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 457
+          },
+          "pageimage": "Meshi_001.jpg"
+        },
+        "14854422": {
+          "pageid": 14854422,
+          "ns": 0,
+          "title": "Shahi paneer",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Shahi_panner.jpg/500px-Shahi_panner.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 360
+          },
+          "pageimage": "Shahi_panner.jpg"
+        },
+        "17567733": {
+          "pageid": 17567733,
+          "ns": 0,
+          "title": "Ragda"
+        },
+        "19707687": {
+          "pageid": 19707687,
+          "ns": 0,
+          "title": "Manda roti",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Tandoori_roti_I_-_initial_contact_%28354969180%29.jpg/500px-Tandoori_roti_I_-_initial_contact_%28354969180%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 360
+          },
+          "pageimage": "Tandoori_roti_I_-_initial_contact_(354969180).jpg"
+        },
+        "20973383": {
+          "pageid": 20973383,
+          "ns": 0,
+          "title": "Aloo tikki",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Aloo_Tikki_served_with_chutneys.jpg/500px-Aloo_Tikki_served_with_chutneys.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 360
+          },
+          "pageimage": "Aloo_Tikki_served_with_chutneys.jpg"
+        },
+        "26383833": {
+          "pageid": 26383833,
+          "ns": 0,
+          "title": "Dum aloo",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Kashmiri_Dum_aloo.jpeg/500px-Kashmiri_Dum_aloo.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 360
+          },
+          "pageimage": "Kashmiri_Dum_aloo.jpeg"
+        },
+        "30338629": {
+          "pageid": 30338629,
+          "ns": 0,
+          "title": "Tandoor bread",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Az_Tandoor_e-citizen.jpg/500px-Az_Tandoor_e-citizen.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 401
+          },
+          "pageimage": "Az_Tandoor_e-citizen.jpg"
+        },
+        "35135496": {
+          "pageid": 35135496,
+          "ns": 0,
+          "title": "Sev puri",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sev_puri_with_sweet_curd.JPG/500px-Sev_puri_with_sweet_curd.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 271
+          },
+          "pageimage": "Sev_puri_with_sweet_curd.JPG"
+        },
+        "35150282": {
+          "pageid": 35150282,
+          "ns": 0,
+          "title": "Paneer tikka",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Paneer_tikka.jpg/500px-Paneer_tikka.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 360
+          },
+          "pageimage": "Paneer_tikka.jpg"
+        },
+        "35310775": {
+          "pageid": 35310775,
+          "ns": 0,
+          "title": "Aloo mutter",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Aloo_Mattar.jpg/500px-Aloo_Mattar.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 364
+          },
+          "pageimage": "Aloo_Mattar.jpg"
+        },
+        "47862905": {
+          "pageid": 47862905,
+          "ns": 0,
+          "title": "Paratha",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Triangle_paratha_%28cropped%29.JPG/500px-Triangle_paratha_%28cropped%29.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 480
+          },
+          "pageimage": "Triangle_paratha_(cropped).JPG"
+        },
+        "57077810": {
+          "pageid": 57077810,
+          "ns": 0,
+          "title": "Thepla",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Thepla_main.jpg/500px-Thepla_main.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 388
+          },
+          "pageimage": "Thepla_main.jpg"
+        },
+        "-1": {
+          "ns": 0,
+          "title": "Vangi bath",
+          "missing": ""
+        },
+        "-2": {
+          "ns": 0,
+          "title": "Mooli paratha",
+          "missing": ""
+        },
+        "-3": {
+          "ns": 0,
+          "title": "Peshwari naan",
+          "missing": ""
+        },
+        "-4": {
+          "ns": 0,
+          "title": "Fruit chaat",
+          "missing": ""
+        }
+      }
+    }
+  },
+  {
+    "batchcomplete": "",
+    "query": {
+      "redirects": [
+        {
+          "from": "Mint chutney",
+          "to": "Chutney"
+        },
+        {
+          "from": "Kootu",
+          "to": "Koottu"
+        },
+        {
+          "from": "Lemon rasam",
+          "to": "Rasam (dish)"
+        }
+      ],
+      "pages": {
+        "61950": {
+          "pageid": 61950,
+          "ns": 0,
+          "title": "Salad",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Salad_platter.jpg/500px-Salad_platter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 320
+          },
+          "pageimage": "Salad_platter.jpg"
+        },
+        "193430": {
+          "pageid": 193430,
+          "ns": 0,
+          "title": "Chutney",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Chutneykarnataka.jpg/500px-Chutneykarnataka.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 613
+          },
+          "pageimage": "Chutneykarnataka.jpg"
+        },
+        "359147": {
+          "pageid": 359147,
+          "ns": 0,
+          "title": "Dosa (food)",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Dosa_at_Sri_Ganesha_Restauran%2C_Bangkok_%2844570742744%29.jpg/500px-Dosa_at_Sri_Ganesha_Restauran%2C_Bangkok_%2844570742744%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 320
+          },
+          "pageimage": "Dosa_at_Sri_Ganesha_Restauran,_Bangkok_(44570742744).jpg"
+        },
+        "413472": {
+          "pageid": 413472,
+          "ns": 0,
+          "title": "Idli",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Idli_Sambar.JPG/500px-Idli_Sambar.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 360
+          },
+          "pageimage": "Idli_Sambar.JPG"
+        },
+        "589702": {
+          "pageid": 589702,
+          "ns": 0,
+          "title": "Sambar (dish)",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Pumpkin_sambar.JPG/500px-Pumpkin_sambar.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 360
+          },
+          "pageimage": "Pumpkin_sambar.JPG"
+        },
+        "1034478": {
+          "pageid": 1034478,
+          "ns": 0,
+          "title": "Raita",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Cucumber-raita.jpg/500px-Cucumber-raita.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 360
+          },
+          "pageimage": "Cucumber-raita.jpg"
+        },
+        "1151788": {
+          "pageid": 1151788,
+          "ns": 0,
+          "title": "Idli podi",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Idli_podi.jpg/500px-Idli_podi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 360
+          },
+          "pageimage": "Idli_podi.jpg"
+        },
+        "1544483": {
+          "pageid": 1544483,
+          "ns": 0,
+          "title": "Koottu",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Cabbage_kootu.jpg/500px-Cabbage_kootu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 468
+          },
+          "pageimage": "Cabbage_kootu.jpg"
+        },
+        "2381353": {
+          "pageid": 2381353,
+          "ns": 0,
+          "title": "Gongura",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Guntur_Gongura1.jpg/500px-Guntur_Gongura1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 360
+          },
+          "pageimage": "Guntur_Gongura1.jpg"
+        },
+        "2390546": {
+          "pageid": 2390546,
+          "ns": 0,
+          "title": "Rasam (dish)",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rasam.JPG/500px-Rasam.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 360
+          },
+          "pageimage": "Rasam.JPG"
+        },
+        "3671251": {
+          "pageid": 3671251,
+          "ns": 0,
+          "title": "Tomato soup",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tomato_soup%2C_plant-based_%2844040252791%29.jpg/500px-Tomato_soup%2C_plant-based_%2844040252791%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 326
+          },
+          "pageimage": "Tomato_soup,_plant-based_(44040252791).jpg"
+        },
+        "3732946": {
+          "pageid": 3732946,
+          "ns": 0,
+          "title": "Uttapam",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Mini_Uttappam.jpg/500px-Mini_Uttappam.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 360
+          },
+          "pageimage": "Mini_Uttappam.jpg"
+        },
+        "4880594": {
+          "pageid": 4880594,
+          "ns": 0,
+          "title": "Avial",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ayiyal.jpg/500px-Ayiyal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 320
+          },
+          "pageimage": "Ayiyal.jpg"
+        },
+        "10745058": {
+          "pageid": 10745058,
+          "ns": 0,
+          "title": "Rava idli",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Rava_Idli_%286005561226%29.jpg/500px-Rava_Idli_%286005561226%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 319
+          },
+          "pageimage": "Rava_Idli_(6005561226).jpg"
+        },
+        "14071128": {
+          "pageid": 14071128,
+          "ns": 0,
+          "title": "Mirchi ka salan",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Hyderabadi_Hari_Mirchi_Ka_Salan.JPG/500px-Hyderabadi_Hari_Mirchi_Ka_Salan.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 360
+          },
+          "pageimage": "Hyderabadi_Hari_Mirchi_Ka_Salan.JPG"
+        },
+        "14320469": {
+          "pageid": 14320469,
+          "ns": 0,
+          "title": "Rajma",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Rajma_Masala_%2832081557778%29.jpg/500px-Rajma_Masala_%2832081557778%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 321
+          },
+          "pageimage": "Rajma_Masala_(32081557778).jpg"
+        },
+        "25311310": {
+          "pageid": 25311310,
+          "ns": 0,
+          "title": "Vanilla ice cream",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Vanilla_Ice_Cream_Cone_at_Camp_Manitoulin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 427,
+            "height": 640
+          },
+          "pageimage": "Vanilla_Ice_Cream_Cone_at_Camp_Manitoulin.jpg"
+        },
+        "28934517": {
+          "pageid": 28934517,
+          "ns": 0,
+          "title": "Coconut chutney",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Coconut_Chutney_-_Home_Made.JPG/500px-Coconut_Chutney_-_Home_Made.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 360
+          },
+          "pageimage": "Coconut_Chutney_-_Home_Made.JPG"
+        },
+        "31336248": {
+          "pageid": 31336248,
+          "ns": 0,
+          "title": "Mango pickle",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Cut-Mango-pickle.jpg/500px-Cut-Mango-pickle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 360
+          },
+          "pageimage": "Cut-Mango-pickle.jpg"
+        },
+        "40783886": {
+          "pageid": 40783886,
+          "ns": 0,
+          "title": "Strawberry ice cream",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Strawberry_ice_cream_cone_%285076899310%29.jpg/500px-Strawberry_ice_cream_cone_%285076899310%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 654
+          },
+          "pageimage": "Strawberry_ice_cream_cone_(5076899310).jpg"
+        },
+        "42360671": {
+          "pageid": 42360671,
+          "ns": 0,
+          "title": "Pistachio ice cream",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Glace_%C3%A0_la_pistache-Lipari.jpg/500px-Glace_%C3%A0_la_pistache-Lipari.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 642
+          },
+          "pageimage": "Glace_à_la_pistache-Lipari.jpg"
+        },
+        "46469807": {
+          "pageid": 46469807,
+          "ns": 0,
+          "title": "Masala dosa",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Masala_Dosa_2023.jpg/500px-Masala_Dosa_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 360
+          },
+          "pageimage": "Masala_Dosa_2023.jpg"
+        },
+        "46527303": {
+          "pageid": 46527303,
+          "ns": 0,
+          "title": "Pesarattu",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Pesarattu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+            "width": 400,
+            "height": 301
+          },
+          "pageimage": "Pesarattu.jpg"
+        },
+        "46897626": {
+          "pageid": 46897626,
+          "ns": 0,
+          "title": "Bhindi fry",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Bhindi_Masala.jpg/500px-Bhindi_Masala.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 480
+          },
+          "pageimage": "Bhindi_Masala.jpg"
+        },
+        "50147649": {
+          "pageid": 50147649,
+          "ns": 0,
+          "title": "Medu vada",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Medu_Vada.JPG/500px-Medu_Vada.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 640
+          },
+          "pageimage": "Medu_Vada.JPG"
+        },
+        "53699164": {
+          "pageid": 53699164,
+          "ns": 0,
+          "title": "Vegetable soup",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Vegetable_udon_noodle_soup.jpg/500px-Vegetable_udon_noodle_soup.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 320
+          },
+          "pageimage": "Vegetable_udon_noodle_soup.jpg"
+        },
+        "65184804": {
+          "pageid": 65184804,
+          "ns": 0,
+          "title": "Rasam"
+        },
+        "-1": {
+          "ns": 0,
+          "title": "Aloo methi",
+          "missing": ""
+        },
+        "-2": {
+          "ns": 0,
+          "title": "Gutti vankaya kura",
+          "missing": ""
+        },
+        "-3": {
+          "ns": 0,
+          "title": "Tomato pappu",
+          "missing": ""
+        },
+        "-4": {
+          "ns": 0,
+          "title": "Palak dal",
+          "missing": ""
+        },
+        "-5": {
+          "ns": 0,
+          "title": "Majjiga pulusu",
+          "missing": ""
+        },
+        "-6": {
+          "ns": 0,
+          "title": "Gongura pachadi",
+          "missing": ""
+        },
+        "-7": {
+          "ns": 0,
+          "title": "Tomato pickle",
+          "missing": ""
+        },
+        "-8": {
+          "ns": 0,
+          "title": "Allam pachadi",
+          "missing": ""
+        },
+        "-9": {
+          "ns": 0,
+          "title": "Kandi podi",
+          "missing": ""
+        },
+        "-10": {
+          "ns": 0,
+          "title": "Semiya upma",
+          "missing": ""
+        },
+        "-11": {
+          "ns": 0,
+          "title": "Tomato rice",
+          "missing": ""
+        },
+        "-12": {
+          "ns": 0,
+          "title": "Onion dosa",
+          "missing": ""
+        },
+        "-13": {
+          "ns": 0,
+          "title": "Poha (dish)",
+          "missing": ""
+        }
+      }
+    }
+  },
+  {
+    "batchcomplete": "",
+    "query": {
+      "redirects": [
+        {
+          "from": "Paan",
+          "to": "Betel nut chewing"
+        },
+        {
+          "from": "Curd (India)",
+          "to": "Dahi (curd)"
+        }
+      ],
+      "pages": {
+        "198725": {
+          "pageid": 198725,
+          "ns": 0,
+          "title": "Drinking water",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Clean_water_for_a_village_in_West_Lombok_%2810686572086%29.jpg/500px-Clean_water_for_a_village_in_West_Lombok_%2810686572086%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 804
+          },
+          "pageimage": "Clean_water_for_a_village_in_West_Lombok_(10686572086).jpg"
+        },
+        "459900": {
+          "pageid": 459900,
+          "ns": 0,
+          "title": "Betel nut chewing",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Betel_1.jpg/500px-Betel_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 377
+          },
+          "pageimage": "Betel_1.jpg"
+        },
+        "1924182": {
+          "pageid": 1924182,
+          "ns": 0,
+          "title": "Papadam",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Roasted_Papad_-_Howrah_2013-11-02_4068.jpg/500px-Roasted_Papad_-_Howrah_2013-11-02_4068.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 319
+          },
+          "pageimage": "Roasted_Papad_-_Howrah_2013-11-02_4068.jpg"
+        },
+        "3089396": {
+          "pageid": 3089396,
+          "ns": 0,
+          "title": "Cassata",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Cassatasiciliana.jpg/500px-Cassatasiciliana.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 389
+          },
+          "pageimage": "Cassatasiciliana.jpg"
+        },
+        "10741597": {
+          "pageid": 10741597,
+          "ns": 0,
+          "title": "Tutti frutti",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Tutti_frutti_ice-cream.jpg/500px-Tutti_frutti_ice-cream.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 360
+          },
+          "pageimage": "Tutti_frutti_ice-cream.jpg"
+        },
+        "47862923": {
+          "pageid": 47862923,
+          "ns": 0,
+          "title": "Dal",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/3_types_of_lentil.png/500px-3_types_of_lentil.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 275
+          },
+          "pageimage": "3_types_of_lentil.png"
+        },
+        "55980391": {
+          "pageid": 55980391,
+          "ns": 0,
+          "title": "Dahi (curd)",
+          "thumbnail": {
+            "source": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Curd_in_a_traditional_Manipuri_earthen_pot.JPG/500px-Curd_in_a_traditional_Manipuri_earthen_pot.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+            "width": 480,
+            "height": 320
+          },
+          "pageimage": "Curd_in_a_traditional_Manipuri_earthen_pot.JPG"
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "group": "sweets",
+    "candidates": []
+  },
+  {
+    "group": "snacks",
+    "candidates": []
+  },
+  {
+    "group": "bread-rice",
+    "candidates": []
+  },
+  {
+    "group": "curries",
+    "candidates": []
+  },
+  {
+    "group": "dal-chutney",
+    "candidates": []
+  },
+  {
+    "group": "extras",
+    "candidates": []
+  }
+]
