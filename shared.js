@@ -1,7 +1,7 @@
 export const escapeHTML = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 export const money = n => new Intl.NumberFormat('en-IN',{style:'currency',currency:'INR',maximumFractionDigits:0}).format(n);
 export function localDate() { return new Intl.DateTimeFormat('en-CA',{timeZone:'Asia/Kolkata',year:'numeric',month:'2-digit',day:'2-digit'}).format(new Date()); }
-export function photoURL(path) { return path?.startsWith('/media/') ? path : path ? `/input_photos/${path}` : ''; }
+export function photoURL(path) { return path?.startsWith('/media/') ? path : path ? `./input_photos/${path}` : ''; }
 export function publicCatalog(c) {
  const copy = structuredClone(c);
  copy.plans = copy.plans.filter(p=>p.visible!==false);
